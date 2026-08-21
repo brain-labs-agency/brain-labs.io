@@ -3,6 +3,7 @@
   --ink:#0B1F22;--petrol:#123A3C;--deep:#0E2E31;
   --amber:#D9A036;--amber-dk:#B0801F;
   --sand:#E6DCC9;--bone:#F2EDE4;--paper:#FAF7F1;
+  --clay:#A8543C;
   --muted:#5E6F6E;--hair:rgba(11,31,34,.13);--hair-light:rgba(242,237,228,.2);
 }
 *{margin:0;padding:0;box-sizing:border-box}
@@ -78,6 +79,7 @@ nav.scrolled .menu-btn span{background:var(--ink)}
 .clock .bar{position:relative;height:36px;background:rgba(11,31,34,.07);border-radius:2px;overflow:hidden}
 .clock .fill{position:absolute;top:0;bottom:0;background:var(--petrol);border-radius:2px}
 .clock .fill.amber{background:var(--amber)}
+.clock .fill.clay{background:var(--clay)}
 .clock .scale{display:grid;grid-template-columns:104px 1fr;gap:18px;margin-top:10px}
 .clock .ticks{display:flex;justify-content:space-between;font-size:10.5px;letter-spacing:.1em;color:var(--muted)}
 .clock .note{font-size:13.5px;color:var(--muted);margin-top:22px;padding-left:122px;font-weight:300}
