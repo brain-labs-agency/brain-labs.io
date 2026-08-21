@@ -32,7 +32,7 @@ a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid var
 
 /* NAV */
 nav{position:fixed;inset:0 0 auto 0;z-index:50;display:flex;align-items:center;justify-content:space-between;padding:20px 4.5%;transition:.35s}
-nav .logo img{height:44px;transition:.35s}
+nav .logo img{height:60px;transition:.35s}
 nav ul{display:flex;gap:30px;list-style:none;align-items:center}
 nav ul a{font-size:12.5px;font-weight:500;letter-spacing:.12em;text-transform:uppercase;color:var(--paper);text-decoration:none;transition:.25s}
 nav ul a:hover{color:var(--amber)}
@@ -155,7 +155,7 @@ details p{padding:0 14% 30px 0;color:var(--muted);font-weight:300;margin-top:-6p
 /* FOOTER */
 footer{background:var(--deep);color:var(--paper);padding:78px 0 38px}
 footer .cols{display:grid;grid-template-columns:2.2fr 1fr 1fr;gap:48px;margin-bottom:54px}
-footer .logo img{height:46px;margin-bottom:18px}
+footer .logo img{height:62px;margin-bottom:18px}
 footer p,footer a{font-size:14px;color:rgba(242,237,228,.72);text-decoration:none;font-weight:300}
 footer a:hover{color:var(--amber)}
 footer h4{font-size:11px;letter-spacing:.26em;text-transform:uppercase;margin-bottom:18px;color:var(--amber);font-weight:600}
