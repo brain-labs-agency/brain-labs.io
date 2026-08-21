@@ -159,7 +159,7 @@ a:focus-visible,summary:focus-visible{outline:2px solid var(--amber);outline-off
 /* NAV */
 nav{position:fixed;inset:0 0 auto 0;z-index:50;display:flex;align-items:center;justify-content:space-between;padding:20px 4.5%;transition:.35s}
 nav .logo img{height:60px;transition:.35s}
-nav ul{display:flex;gap:24px;list-style:none;align-items:center}
+nav ul{display:flex;gap:38px;list-style:none;align-items:center}
 nav ul a{font-size:15px;font-weight:500;letter-spacing:.12em;text-transform:uppercase;color:var(--paper);text-decoration:none;transition:.25s}
 nav ul a:hover{color:var(--amber)}
 nav .btn{padding:17px 32px;font-size:13px}
@@ -308,13 +308,10 @@ footer .base{border-top:1px solid var(--hair-light);padding-top:28px;display:fle
 <nav id="nav">
   <a href="/" class="logo"><img src="bl_logo.png" alt="BL Agency"></a>
   <ul>
-    <li><a href="#approach">Approach</a></li>
     <li><a href="#how">Services</a></li>
     <li><a href="/talent">Hire Talent</a></li>
     <li><a href="/careers">Careers</a></li>
     <li><a href="#about">About</a></li>
-    <li><a href="#faq">FAQ</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ul>
   <a href="https://calendly.com/bl-agency-connect/bl_meetings" class="btn btn-amber">Book a call</a>
   <button class="menu-btn" id="menuBtn" aria-label="Menu" aria-expanded="false" aria-controls="mobileMenu">
@@ -323,11 +320,11 @@ footer .base{border-top:1px solid var(--hair-light);padding-top:28px;display:fle
 </nav>
 
 <div class="mobile-menu" id="mobileMenu" hidden>
-  <a href="#approach">Approach</a>
   <a href="#how">Services</a>
   <a href="/talent">Hire Talent</a>
   <a href="/careers">Careers</a>
   <a href="#about">About</a>
+  <a href="#approach">Approach</a>
   <a href="#faq">FAQ</a>
   <a href="#contact">Contact</a>
   <a href="https://calendly.com/bl-agency-connect/bl_meetings" class="menu-cta">Book a call</a>
