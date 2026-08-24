@@ -151,8 +151,97 @@
       <p>Tell us the role you're after and what you've done. If your English and your experience hold up, we'll get you on a call this week.</p>
     </div>
     <div class="formwrap">
-      <!-- Replace src with your Tally form URL -->
-      <iframe src="about:blank" title="Application form" loading="lazy"></iframe>
+      <form class="bl-form" data-table="applications" data-lang="en" novalidate>
+        <div class="bl-row">
+        <div class="bl-field">
+          <label for="app-name-en">Full name</label>
+          <input type="text" id="app-name-en" name="full_name" required minlength="2" maxlength="120" autocomplete="name">
+        </div>
+        <div class="bl-field">
+          <label for="app-email-en">Email</label>
+          <input type="email" id="app-email-en" name="email" required maxlength="254" autocomplete="email">
+        </div>
+        </div>
+        <div class="bl-row">
+        <div class="bl-field">
+          <label for="app-country-en">Country</label>
+          <select id="app-country-en" name="country" required>
+            <option value="" disabled selected>Select…</option>
+            <option value="Argentina">Argentina</option>
+            <option value="Bolivia">Bolivia</option>
+            <option value="Brazil">Brazil</option>
+            <option value="Chile">Chile</option>
+            <option value="Colombia">Colombia</option>
+            <option value="Costa Rica">Costa Rica</option>
+            <option value="Cuba">Cuba</option>
+            <option value="Dominican Republic">Dominican Republic</option>
+            <option value="Ecuador">Ecuador</option>
+            <option value="El Salvador">El Salvador</option>
+            <option value="Guatemala">Guatemala</option>
+            <option value="Honduras">Honduras</option>
+            <option value="Mexico">Mexico</option>
+            <option value="Nicaragua">Nicaragua</option>
+            <option value="Panama">Panama</option>
+            <option value="Paraguay">Paraguay</option>
+            <option value="Peru">Peru</option>
+            <option value="Puerto Rico">Puerto Rico</option>
+            <option value="Uruguay">Uruguay</option>
+            <option value="Venezuela">Venezuela</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+        <div class="bl-field">
+          <label for="app-role-en">Which role are you applying for?</label>
+          <select id="app-role-en" name="role" required>
+            <option value="" disabled selected>Select…</option>
+            <option value="sdr">SDR / BDR</option>
+            <option value="ae">Account Executive</option>
+            <option value="sales-ops">Sales Operations</option>
+            <option value="csm">Customer Success / Account Manager</option>
+          </select>
+        </div>
+        </div>
+        <div class="bl-row">
+        <div class="bl-field">
+          <label for="app-years-en">Years of sales experience</label>
+          <select id="app-years-en" name="years_experience" required>
+            <option value="" disabled selected>Select…</option>
+            <option value="lt-1">Less than 1 year</option>
+            <option value="1-3">1 to 3 years</option>
+            <option value="3-5">3 to 5 years</option>
+            <option value="5-plus">5+ years</option>
+          </select>
+        </div>
+        <div class="bl-field">
+          <label for="app-tz-en">Which US hours can you cover?</label>
+          <select id="app-tz-en" name="timezone_coverage" required>
+            <option value="" disabled selected>Select…</option>
+            <option value="eastern">Eastern</option>
+            <option value="central">Central</option>
+            <option value="mountain">Mountain</option>
+            <option value="pacific">Pacific</option>
+            <option value="any">Any / flexible</option>
+          </select>
+        </div>
+        </div>
+        <div class="bl-field">
+          <label for="app-cv-en">Upload your CV <span class="opt">(optional)</span></label>
+          <input type="file" id="app-cv-en" name="cv" accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document" aria-describedby="app-cv-en-hint">
+          <p class="bl-hint" id="app-cv-en-hint">PDF, DOC or DOCX. 5 MB max. You can apply without it and send it later.</p>
+        </div>
+        <div class="bl-field">
+          <label for="app-notes-en">What have you sold, to whom, and what were your numbers?</label>
+          <textarea id="app-notes-en" name="experience_notes" required minlength="10" maxlength="4000" aria-describedby="app-notes-en-hint"></textarea>
+          <p class="bl-hint" id="app-notes-en-hint">Be specific — deal sizes, quota, industries.</p>
+        </div>
+        <div class="bl-field">
+          <label for="app-li-en">LinkedIn profile <span class="opt">(optional)</span></label>
+          <input type="text" id="app-li-en" name="linkedin_url" maxlength="300" placeholder="linkedin.com/in/…" autocomplete="url">
+        </div>
+        <p class="bl-hp" aria-hidden="true"><label for="hp-app-en">Leave this empty</label><input type="text" id="hp-app-en" name="_hp" tabindex="-1" autocomplete="off"></p>
+        <div class="bl-msg" data-msg hidden role="alert" aria-live="assertive"></div>
+        <button type="submit" class="btn btn-amber" data-submit>Send application</button>
+      </form>
     </div>
     <p class="fallback">Trouble with the form? Email your CV to <a href="mailto:veronica@brain-labs.io?subject=Application">veronica@brain-labs.io</a> with the role you're applying for in the subject line.</p>
   </div>
@@ -200,5 +289,6 @@
   document.addEventListener('keydown',function(e){if(e.key==='Escape')close()});
 })();
 </script>
+<script type="module" src="forms.js"></script>
 </body>
 </html>
