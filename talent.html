@@ -31,7 +31,7 @@
     <li><a href="/careers">Careers</a></li>
     <li><a href="/carreras" class="lang">ES</a></li>
   </ul>
-  <a href="https://calendly.com/bl-agency-connect/bl_meetings" class="btn btn-amber">Request profiles</a>
+  <a href="#request" class="btn btn-amber">Request profiles</a>
   <button class="menu-btn" id="menuBtn" aria-label="Menu" aria-expanded="false" aria-controls="mobileMenu">
     <span></span><span></span><span></span>
   </button>
@@ -44,7 +44,7 @@
   <a href="#faq">FAQ</a>
   <a href="/careers">Careers</a>
   <a href="/carreras">Español</a>
-  <a href="https://calendly.com/bl-agency-connect/bl_meetings" class="cta-link">Request profiles</a>
+  <a href="#request" class="cta-link">Request profiles</a>
 </div>
 
 <header class="hero">
@@ -53,7 +53,7 @@
     <h1>Sales reps who work <em>your</em> hours.</h1>
     <p class="sub">We place vetted bilingual sales professionals from Latin America with US companies — working your business hours, on the engagement model that fits your team, and evaluated by people who run revenue operations on a daily basis.</p>
     <div class="ctas">
-      <a href="https://calendly.com/bl-agency-connect/bl_meetings" class="btn btn-amber">Request profiles</a>
+      <a href="#request" class="btn btn-amber">Request profiles</a>
       <a href="#process" class="btn btn-ghost">See how it works</a>
     </div>
     <div class="facts">
@@ -230,11 +230,105 @@
   </div>
 </section>
 
+<section class="apply section" id="request">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">Request profiles</div>
+      <h2>Tell us what you're hiring for.</h2>
+      <p>Send us the role and we'll come back with a short list inside 72 hours. If we don't have the right person, we'll tell you that instead.</p>
+    </div>
+    <div class="formwrap">
+      <form class="bl-form" data-table="hiring_requests" data-lang="en" novalidate>
+        <div class="bl-row">
+        <div class="bl-field">
+          <label for="req-name">Full name</label>
+          <input type="text" id="req-name" name="full_name" required minlength="2" maxlength="120" autocomplete="name">
+        </div>
+        <div class="bl-field">
+          <label for="req-email">Work email</label>
+          <input type="email" id="req-email" name="work_email" required maxlength="254" autocomplete="email">
+        </div>
+        </div>
+        <div class="bl-row">
+        <div class="bl-field">
+          <label for="req-company">Company</label>
+          <input type="text" id="req-company" name="company" required maxlength="160" autocomplete="organization">
+        </div>
+        <div class="bl-field">
+          <label for="req-site">Company website <span class="opt">(optional)</span></label>
+          <input type="text" id="req-site" name="company_website" minlength="4" maxlength="300" placeholder="acme.com" autocomplete="url">
+        </div>
+        </div>
+        <div class="bl-row">
+        <div class="bl-field">
+          <label for="req-role">Which role are you hiring for?</label>
+          <select id="req-role" name="role" required>
+            <option value="" disabled selected>Select…</option>
+            <option value="sdr">SDR / BDR</option>
+            <option value="ae">Account Executive</option>
+            <option value="sales-ops">Sales Operations</option>
+            <option value="csm">Customer Success / Account Manager</option>
+            <option value="other">Something else</option>
+          </select>
+        </div>
+        <div class="bl-field">
+          <label for="req-headcount">How many people?</label>
+          <select id="req-headcount" name="headcount" required>
+            <option value="" disabled selected>Select…</option>
+            <option value="1">1</option>
+            <option value="2-3">2 to 3</option>
+            <option value="4-plus">4 or more</option>
+            <option value="not-sure">Not sure yet</option>
+          </select>
+        </div>
+        </div>
+        <div class="bl-row">
+        <div class="bl-field">
+          <label for="req-tz">Which time zone needs coverage?</label>
+          <select id="req-tz" name="timezone_needed" required>
+            <option value="" disabled selected>Select…</option>
+            <option value="eastern">Eastern</option>
+            <option value="central">Central</option>
+            <option value="mountain">Mountain</option>
+            <option value="pacific">Pacific</option>
+            <option value="any">Any / flexible</option>
+          </select>
+        </div>
+        <div class="bl-field">
+          <label for="req-start">When do you need them to start?</label>
+          <select id="req-start" name="start_timeline" required>
+            <option value="" disabled selected>Select…</option>
+            <option value="asap">ASAP</option>
+            <option value="30-days">Within 30 days</option>
+            <option value="90-days">Within 90 days</option>
+            <option value="exploring">Just exploring</option>
+          </select>
+        </div>
+        </div>
+        <div class="bl-field">
+          <label for="req-sell">What does your company sell, and to whom?</label>
+          <textarea id="req-sell" name="what_they_sell" required minlength="10" maxlength="4000" aria-describedby="req-sell-hint"></textarea>
+          <p class="bl-hint" id="req-sell-hint">Product or service, and the buyer you are targeting.</p>
+        </div>
+        <div class="bl-field">
+          <label for="req-notes">Anything else we should know? <span class="opt">(optional)</span></label>
+          <textarea id="req-notes" name="notes" maxlength="4000"></textarea>
+        </div>
+        <p class="bl-hp" aria-hidden="true"><label for="hp-req">Leave this empty</label><input type="text" id="hp-req" name="_hp" tabindex="-1" autocomplete="off"></p>
+        <div class="bl-msg" data-msg hidden role="alert" aria-live="assertive"></div>
+        <button type="submit" class="btn btn-amber" data-submit>Request profiles</button>
+      </form>
+    </div>
+    <p class="talkfirst">Prefer to talk first? <a href="https://calendly.com/bl-agency-connect/bl_meetings">Book a 20-minute call</a>.</p>
+    <p class="fallback">Trouble with the form? Email us at <a href="mailto:veronica@brain-labs.io?subject=Hiring%20request">veronica@brain-labs.io</a> with the role you're hiring for.</p>
+  </div>
+</section>
+
 <section class="cta" id="contact">
   <div class="eyebrow on-dark center">Get started</div>
   <h2>Tell us what you're hiring for.</h2>
   <p>Send us the role and we'll come back with three profiles inside 72 hours. If we don't have the right person, we'll tell you that instead.</p>
-  <a href="https://calendly.com/bl-agency-connect/bl_meetings" class="btn btn-amber">Request profiles</a>
+  <a href="#request" class="btn btn-amber">Request profiles</a>
 </section>
 
 <footer>
@@ -281,5 +375,6 @@
   document.addEventListener('keydown',function(e){if(e.key==='Escape')close()});
 })();
 </script>
+<script type="module" src="forms.js"></script>
 </body>
 </html>
