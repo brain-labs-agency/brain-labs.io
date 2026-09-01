@@ -105,6 +105,28 @@ function fileError(file, t) {
   return null;
 }
 
+// ---------- analytics ----------
+
+// '/careers' -> 'careers' | '/' -> 'index' | '/talent.html' -> 'talent'
+function pageName() {
+  const seg = location.pathname.replace(/\/+$/, '').split('/').pop().replace(/\.html$/, '');
+  return seg || 'index';
+}
+
+// GA4 puede no existir: un bloqueador puede frenar gtag.js o el inline.
+// Nunca debe impedir que el usuario vea su mensaje de exito.
+function trackSubmit(table) {
+  try {
+    if (typeof window.gtag !== 'function') return;
+    window.gtag('event', 'form_submit', {
+      form_type: table === 'applications' ? 'application' : 'hiring_request',
+      form_page: pageName()
+    });
+  } catch (err) {
+    console.warn('GA4 event failed:', err);
+  }
+}
+
 // ---------- UI ----------
 
 function showMessage(form, html) {
@@ -127,8 +149,9 @@ function showError(form, t, message) {
   );
 }
 
-function showSuccess(form, t, body, extra) {
+function showSuccess(form, t, body, extra, track) {
   const wrap = form.parentElement;
+  const table = form.dataset.table;
   const panel = document.createElement('div');
   panel.className = 'bl-success';
   panel.setAttribute('role', 'status');
@@ -136,6 +159,8 @@ function showSuccess(form, t, body, extra) {
     `<h3>${t.okTitle}</h3><p>${body}</p>` + (extra ? `<p class="bl-note">${extra}</p>` : '');
   form.replaceWith(panel);
   wrap.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  // Despues de pintar: si el tracking fallara, el usuario ya vio su mensaje.
+  if (track) trackSubmit(table);
 }
 
 function setLoading(form, on, t) {
@@ -164,7 +189,7 @@ async function handleSubmit(event) {
 
   // Honeypot: un bot rellena todo. Fingimos exito y no guardamos nada.
   if (form.querySelector('[name="_hp"]').value !== '') {
-    showSuccess(form, t, table === 'applications' ? t.okBodyApp : t.okBodyReq, '');
+    showSuccess(form, t, table === 'applications' ? t.okBodyApp : t.okBodyReq, '', false);
     return;
   }
 
@@ -229,7 +254,8 @@ async function handleSubmit(event) {
       form,
       t,
       table === 'applications' ? t.okBodyApp : t.okBodyReq,
-      cvFailed ? t.okNoCv : ''
+      cvFailed ? t.okNoCv : '',
+      true
     );
   } catch (err) {
     setLoading(form, false, t);
