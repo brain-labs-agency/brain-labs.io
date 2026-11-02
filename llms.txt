@@ -1,14 +1,17 @@
 # BL Agency
 
-> BL Agency builds and operates outbound acquisition systems for B2B companies. We run your entire SDR function — LinkedIn prospecting, cold email, inbox management, and meeting booking — so you get a predictable flow of qualified sales conversations without the overhead of hiring.
+> BL Agency builds and operates outbound acquisition systems for B2B companies. We run your entire SDR function, LinkedIn prospecting, cold email, inbox management, and meeting booking, so you get a predictable flow of qualified sales conversations without the overhead of hiring.
 
 ## What we do
+
+BL Agency runs outbound with an Agent Base: a team of AI agents (Scout for research, Lens for account research, Quill for writing, Relay for sending, Echo for replies, Atlas for meetings) and a dedicated Agent Base manager who reviews and approves every email before it is sent. Clients watch the activity on a live dashboard.
+
 
 BL Agency provides SDR as a Service for B2B companies. We handle the full outbound sales function on behalf of our clients, including market mapping, ICP development, LinkedIn outreach campaigns, cold email sequences, inbox management, prospect qualification, and booked meeting delivery.
 
 ## Who we serve
 
-We work with B2B agencies, SaaS companies, consultants, coaches, and service businesses — especially those with offers worth $2,000+ per month who need a repeatable outbound pipeline and want to outsource the entire SDR function.
+We work with B2B agencies, SaaS companies, consultants, coaches, and service businesses, especially those with offers worth $2,000+ per month who need a repeatable outbound pipeline and want to outsource the entire SDR function.
 
 ## Track record
 
@@ -26,9 +29,16 @@ We work with B2B agencies, SaaS companies, consultants, coaches, and service bus
 
 ## Founder
 
-Veronica Grados — founder of BL Agency with 6+ years in B2B outbound sales, GTM systems, and revenue operations. LinkedIn: https://www.linkedin.com/in/veronica-grados/
+Veronica Grados, founder of BL Agency with 6+ years in B2B outbound sales, GTM systems, and revenue operations. LinkedIn: https://www.linkedin.com/in/veronica-grados/
 
 ## Contact
 
 Website: https://www.brain-labs.io
-Book a call: https://calendly.com/bl-agency-connect/bl_meetings
+Book a call: https://cal.com/vero-grados-bl-agency/bl-meetings
+
+## Pages
+
+- Agent Base (home): https://www.brain-labs.io/
+- Hire sales talent from Latin America: https://www.brain-labs.io/talent
+- Careers: https://www.brain-labs.io/careers (Spanish: https://www.brain-labs.io/carreras)
+- Blog: https://www.brain-labs.io/blog

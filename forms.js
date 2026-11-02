@@ -27,7 +27,7 @@ const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY, {
 const COPY = {
   en: {
     sending: 'Sending…',
-    okTitle: 'Thanks — we have it.',
+    okTitle: 'Thanks, we have it.',
     okBodyApp: 'We review every application. If your experience fits something we have open, you will hear from us at the email you gave us.',
     okBodyReq: 'We will come back to you within one business day at the email you gave us.',
     okNoCv: 'Heads up: your CV could not be attached, so we saved your application without it. You can email it to ' + CONTACT_EMAIL + ' and we will match it up.',
@@ -41,7 +41,7 @@ const COPY = {
   },
   es: {
     sending: 'Enviando…',
-    okTitle: 'Listo — ya nos llegó.',
+    okTitle: 'Listo, ya nos llegó.',
     okBodyApp: 'Revisamos todas las postulaciones. Si tu experiencia calza con algo que tengamos abierto, te escribimos al correo que nos dejaste.',
     okBodyReq: 'Te respondemos dentro de un día hábil al correo que nos dejaste.',
     okNoCv: 'Un aviso: no pudimos adjuntar tu CV, así que guardamos la postulación sin él. Puedes mandarlo a ' + CONTACT_EMAIL + ' y lo juntamos.',

@@ -26,139 +26,86 @@
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="site.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..500;1,9..144,300..500&family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="/site.css">
 </head>
 <body>
+<header class="page-hero has-img" id="top">
+<div class="ph-img" aria-hidden="true"><picture><source srcset="/img/hero-careers.webp" type="image/webp"><img src="/img/hero-careers.jpg" alt=""></picture></div>
+  <div class="topbar" id="topbar"><nav class="nav wrap" aria-label="Main">
+    <a class="logo" href="/" aria-label="BL Agency, home"><svg viewBox="0 0 425 327" aria-hidden="true"><rect x="2" y="2" width="321" height="321" fill="none" stroke="rgba(246,241,231,.5)" stroke-width="3"/><text x="42" y="146" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="86">BL</text><text x="42" y="241" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="86" textLength="378" lengthAdjust="spacingAndGlyphs">AGENCY</text></svg></a>
+    <ul><li><a href="/">Agent Base</a></li><li><a href="/talent">Contratar talento</a></li><li><a href="/carreras" class="is-here">Carreras</a></li><li><a href="/blog">Blog</a></li></ul>
+    <div class="nav-right"><a class="lang" href="/careers">EN</a><a class="btn btn-fill" href="#apply">Postular</a></div>
+  </nav></div>
 
-<nav id="nav">
-  <a href="/" class="logo"><img src="bl_logo.png" alt="BL Agency"></a>
-  <ul>
-    <li><a href="#roles">Posiciones</a></li>
-    <li><a href="#requirements">Requisitos</a></li>
-    <li><a href="#process">Cómo funciona</a></li>
-    <li><a href="/talent">Para empresas</a></li>
-    <li><a href="/careers" class="lang">EN</a></li>
-  </ul>
-  <a href="#apply" class="btn btn-amber">Postular</a>
-  <button class="menu-btn" id="menuBtn" aria-label="Menú" aria-expanded="false" aria-controls="mobileMenu">
-    <span></span><span></span><span></span>
-  </button>
-</nav>
-
-<div class="mobile-menu" id="mobileMenu" hidden>
-  <a href="#roles">Posiciones</a>
-  <a href="#requirements">Requisitos</a>
-  <a href="#process">Cómo funciona</a>
-  <a href="/talent">Para empresas</a>
-  <a href="/careers">English</a>
-  <a href="#apply" class="cta-link">Postular</a>
-</div>
-
-<header class="hero">
-  <div class="hero-inner">
-    <div class="eyebrow on-dark">Carreras</div>
-    <h1>Vende para empresas de Estados Unidos, <em>desde donde estás.</em></h1>
-    <p class="sub">Conectamos profesionales de ventas bilingües de toda Latinoamérica con empresas estadounidenses. Pago en dólares, horario de Estados Unidos, sin mudarte — y un proceso conducido por gente que vende todos los días.</p>
-    <div class="ctas">
-      <a href="#apply" class="btn btn-amber">Postular ahora</a>
-      <a href="#process" class="btn btn-ghost">Cómo funciona</a>
-    </div>
-    <div class="facts">
-      <span>Pago en USD</span>
-      <span>Remoto, horario US</span>
-      <span>Entrevista con una AE en ejercicio</span>
-      <span>Inglés requerido</span>
-    </div>
+  <div class="wrap hero-body">
+    <p class="label">Carreras</p>
+    <h1>Vende para empresas de Estados Unidos, desde <em>donde estás</em>.</h1>
+    <p>Conectamos profesionales de ventas bilingües de toda Latinoamérica con empresas de Estados Unidos. Pago en dólares, horario de Estados Unidos, sin mudarte, y un proceso a cargo de gente que vende todos los días.</p>
+    <div class="cta"><a class="btn btn-fill" href="#apply">Postular ahora</a><a class="btn btn-line" href="#how">Cómo funciona</a></div>
+    <ul class="proof"><li>Pago en USD</li><li>Remoto, horario US</li><li>Entrevista con una AE en ejercicio</li><li>Inglés requerido</li></ul>
   </div>
 </header>
-
-<section class="approach section">
-  <div class="wrap">
-    <div class="eyebrow">Quiénes somos</div>
-    <h2>No somos una agencia de reclutamiento.</h2>
-    <p style="margin-top:26px">BL Agency hace outbound para empresas B2B. Armamos los sistemas, escribimos las secuencias, hacemos las llamadas. Lo de ubicar vendedores salió de ahí: las empresas nos preguntaban a quién contratar.</p>
-    <p>Eso significa que quien te entrevista ha hecho el trabajo al que estás postulando. Te evalúan por lo que sabes hacer, no por cómo está diagramado tu CV — y si todavía no estás listo, te decimos qué te falta en vez de dejarte adivinando.</p>
-  </div>
-</section>
-
-<section class="roles section" id="roles">
-  <div class="wrap">
-    <div class="eyebrow on-dark">Posiciones</div>
-    <h2>Roles de ventas en todo el embudo.</h2>
-
-    <div class="rolerow">
-      <h3>SDR / BDR<span>Inicio del embudo</span></h3>
-      <p>Construir pipeline para un equipo comercial en Estados Unidos: investigar cuentas, hacer prospección, calificar y derivar a los closers.</p>
-    </div>
-
-    <div class="rolerow">
-      <h3>Account Executive<span>Ciclo completo</span></h3>
-      <p>Manejar oportunidades desde discovery hasta el cierre, con manejo de objeciones y negociación con compradores estadounidenses.</p>
-    </div>
-
-    <div class="rolerow">
-      <h3>Sales Operations<span>Infraestructura comercial</span></h3>
-      <p>Mantener en orden la data y el proceso de un equipo de ventas: CRM, enriquecimiento, reportes y los flujos detrás de los números.</p>
-    </div>
-
-    <div class="rolerow">
-      <h3>Customer Success / Account Manager<span>Post-venta</span></h3>
-      <p>Gestionar la relación después de la venta: onboarding, adopción, renovaciones y expansión.</p>
-    </div>
-
-    <p class="rolenote">¿No sabes cuál te calza? Postula igual y cuéntanos qué has hecho. Vamos ubicando gente conforme se abren posiciones, y muchas veces el mejor encaje no es el que uno esperaba.</p>
-  </div>
-</section>
-
-<section class="reqs section" id="requirements">
-  <div class="wrap grid">
-    <div>
-      <div class="eyebrow">Qué buscamos</div>
-      <h2>Cuatro cosas, y una de ellas no es tu CV.</h2>
-      <p style="color:var(--muted);font-weight:300;margin-top:18px">La entrevista dura veinte minutos y es con una account executive en ejercicio. Una parte es en inglés y otra es un roleplay en vivo. Sabrás cómo te fue antes de que termine.</p>
-    </div>
-    <ul>
-      <li><strong>Inglés conversacional.</strong> No "avanzado" en el CV — capaz de sostener una llamada cuando del otro lado te frenan.</li>
-      <li><strong>Experiencia real en ventas.</strong> Outbound, SDR, appointment setting o venta B2B, con tus propios números.</li>
-      <li><strong>Disponibilidad en horario de Estados Unidos.</strong> La mayoría de posiciones son en horario del Este.</li>
-      <li><strong>Un setup confiable.</strong> Internet estable y un lugar sin ruido para tomar llamadas.</li>
-    </ul>
-  </div>
-</section>
-
-<section class="process section" id="process">
-  <div class="wrap">
-    <div class="eyebrow">Cómo funciona</div>
-    <h2>Postulas una vez. Te buscamos cuando hay encaje.</h2>
-    <div class="steps three">
-      <div class="step">
-        <div class="num">01</div>
-        <h3>Postulas</h3>
-        <p>Mandas tu CV y nos cuentas qué has vendido, a quién, y cómo eran tus números.</p>
+<main>
+  <section>
+    <div class="wrap intro-grid">
+      <div class="intro-copy">
+        <p class="label">Quiénes somos</p>
+        <h2>No somos una agencia de <em>reclutamiento</em>.</h2>
+        <p class="lede">BL Agency hace outbound para empresas B2B. Armamos los sistemas, escribimos las secuencias y hacemos las llamadas. Lo de ubicar vendedores salió de ahí: las empresas nos preguntaban a quién contratar.</p>
+        <p class="lede">Quien te entrevista ha hecho el trabajo al que postulas. Te evaluamos por lo que sabes hacer, y si todavía no estás listo, te decimos qué te falta.</p>
       </div>
-      <div class="step">
-        <div class="num">02</div>
-        <h3>Entrevista de veinte minutos</h3>
-        <p>Una parte en inglés y un roleplay en vivo. Te decimos ahí mismo dónde estás parado y qué te haría más fuerte.</p>
-      </div>
-      <div class="step">
-        <div class="num">03</div>
-        <h3>Te conectamos</h3>
-        <p>Quedas en nuestra selección. Cuando una empresa de Estados Unidos abre una posición que calza con tu perfil, te presentamos directamente. Sin caja negra y sin dejarte esperando.</p>
-      </div>
+      <dl class="trio">
+        <div><dt>USD</dt><dd>de pago, desde donde vives</dd></div>
+        <div><dt>20</dt><dd>minutos de entrevista, parte en inglés</dd></div>
+        <div><dt>4</dt><dd>tipos de posiciones de ventas</dd></div>
+      </dl>
     </div>
-  </div>
-</section>
+  </section>
 
-<section class="apply section" id="apply">
-  <div class="wrap">
-    <div class="head">
-      <div class="eyebrow">Postula</div>
-      <h2>Mándanos tu CV.</h2>
-      <p>Cuéntanos qué posición buscas y qué has hecho. Si el inglés y la experiencia dan, te contactamos esta semana.</p>
+  <section class="on-surface">
+    <div class="wrap">
+      <div class="head"><p class="label">Posiciones</p><h2>Roles de ventas en todo el <em>embudo</em>.</h2></div>
+      <div class="roles">
+        <div class="role"><p class="label">Inicio del embudo</p><h3>SDR / BDR</h3><p>Construir pipeline para un equipo comercial en Estados Unidos: investigar cuentas, prospectar, calificar y derivar a los closers.</p></div>
+        <div class="role"><p class="label">Ciclo completo</p><h3>Account Executive</h3><p>Llevar oportunidades desde discovery hasta el cierre, con manejo de objeciones y negociación con compradores de Estados Unidos.</p></div>
+        <div class="role"><p class="label">Infraestructura comercial</p><h3>Sales Operations</h3><p>Mantener en orden la data y el proceso de un equipo de ventas: CRM, enriquecimiento, reportes y los flujos detrás de los números.</p></div>
+        <div class="role"><p class="label">Post venta</p><h3>Customer Success / Account Manager</h3><p>Gestionar la relación después de la venta: onboarding, adopción, renovaciones y expansión.</p></div>
+      </div>
+      <p class="note-line">¿No sabes cuál te calza? Postula igual y cuéntanos qué has hecho.</p>
     </div>
-    <div class="formwrap">
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="head"><p class="label">Qué buscamos</p><h2>Cuatro cosas, y una de ellas no es tu <em>CV</em>.</h2></div>
+      <ul class="reqs">
+        <li><b>Inglés conversacional</b><span>Capaz de sostener una llamada cuando del otro lado te frenan.</span></li>
+        <li><b>Experiencia real en ventas</b><span>Outbound, SDR, appointment setting o venta B2B, con tus propios números.</span></li>
+        <li><b>Horario de Estados Unidos</b><span>La mayoría de posiciones son en horario del Este.</span></li>
+        <li><b>Un setup confiable</b><span>Internet estable y un lugar sin ruido para tomar llamadas.</span></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="on-surface" id="how">
+    <div class="wrap">
+      <div class="head"><p class="label">Cómo funciona</p><h2>Postulas una vez. Te buscamos cuando hay <em>encaje</em>.</h2></div>
+      <ol class="steps three">
+        <li><h3>Postulas</h3><p>Mandas tu CV y nos cuentas qué has vendido, a quién y cómo eran tus números.</p></li>
+        <li><h3>Entrevista de veinte minutos</h3><p>Una parte en inglés y un roleplay en vivo. Te decimos dónde estás parado.</p></li>
+        <li><h3>Te conectamos</h3><p>Cuando una empresa de Estados Unidos abre una posición que calza contigo, te presentamos directamente.</p></li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="invite" id="apply">
+    <div class="wrap invite-grid">
+      <div class="head">
+        <p class="label">Postula</p>
+        <h2>Mándanos tu <em>CV</em>.</h2>
+        <p class="lede">Cuéntanos qué posición buscas y qué has hecho. Si el inglés y la experiencia dan, te contactamos para una llamada.</p>
+      </div>
       <form class="bl-form" data-table="applications" data-lang="es" novalidate>
         <div class="bl-row">
         <div class="bl-field">
@@ -248,55 +195,35 @@
         </div>
         <p class="bl-hp" aria-hidden="true"><label for="hp-app-es">Leave this empty</label><input type="text" id="hp-app-es" name="_hp" tabindex="-1" autocomplete="off"></p>
         <div class="bl-msg" data-msg hidden role="alert" aria-live="assertive"></div>
-        <button type="submit" class="btn btn-amber" data-submit>Enviar postulación</button>
+        <button type="submit" class="btn btn-fill" data-submit>Enviar postulación</button>
       </form>
     </div>
-    <p class="fallback">¿Problemas con el formulario? Manda tu CV a <a href="mailto:veronica@brain-labs.io?subject=Postulacion">veronica@brain-labs.io</a> indicando la posición en el asunto.</p>
-  </div>
-</section>
-
+  </section>
+</main>
 <footer>
-  <div class="wrap">
-    <div class="cols">
-      <div>
-        <span class="logo"><img src="bl_logo.png" alt="BL Agency"></span>
-        <p>Sistemas de outbound y talento comercial bilingüe para empresas B2B. Operamos desde Lima, Perú, en horario estadounidense.</p>
-      </div>
-      <div>
-        <h4>Servicios</h4>
-        <ul>
-          <li><a href="/">SDR as a Service</a></li>
-          <li><a href="/talent">Contratar talento</a></li>
-          <li><a href="/careers">Careers (English)</a></li>
-          <li><a href="/carreras">Carreras</a></li>
-        </ul>
-      </div>
-      <div>
-        <h4>Contacto</h4>
-        <ul>
-          <li><a href="mailto:veronica@brain-labs.io">veronica@brain-labs.io</a></li>
-          <li><a href="https://www.linkedin.com/in/veronica-grados/">LinkedIn</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="base">
-      <span>© 2026 BL Agency. Todos los derechos reservados.</span>
-      <span>Lima, Perú — horario de Estados Unidos</span>
-    </div>
+  <div class="wrap foot">
+    <div><a class="logo" href="/" aria-label="BL Agency"><svg style="height:64px" viewBox="0 0 425 327" aria-hidden="true"><rect x="2" y="2" width="321" height="321" fill="none" stroke="rgba(246,241,231,.5)" stroke-width="3"/><text x="42" y="146" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="86">BL</text><text x="42" y="241" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="86" textLength="378" lengthAdjust="spacingAndGlyphs">AGENCY</text></svg></a><p style="margin-top:14px;max-width:32ch">Sistemas de outbound y talento comercial bilingüe para empresas B2B. Operamos desde Lima, Perú, en horario de Estados Unidos.</p></div>
+    <div><h4>Servicios</h4><ul><li><a href="/">Agent Base</a></li><li><a href="/talent">Contratar talento</a></li><li><a href="/careers">Careers (English)</a></li><li><a href="/carreras">Carreras</a></li></ul></div><div><h4>Recursos</h4><ul><li><a href="/blog">Blog</a></li><li><a href="/#questions">Preguntas</a></li><li><a href="/#about">Nosotros</a></li></ul></div>
+    <div><h4>Contacto</h4><ul><li><a href="https://cal.com/vero-grados-bl-agency/bl-meetings" target="_blank" rel="noopener">Agendar una llamada</a></li><li>veronica@brain-labs.io</li><li><a href="https://www.linkedin.com/in/veronica-grados/">LinkedIn</a></li></ul></div>
+    <div class="small"><span>© 2026 BL Agency. Todos los derechos reservados.</span><span>Lima, Perú · horario de Estados Unidos</span></div>
   </div>
 </footer>
-
 <script>
 (function(){
-  var nav=document.getElementById('nav'),btn=document.getElementById('menuBtn'),menu=document.getElementById('mobileMenu');
-  var onScroll=function(){nav.classList.toggle('scrolled',window.scrollY>60)};
-  onScroll();window.addEventListener('scroll',onScroll,{passive:true});
-  var close=function(){menu.hidden=true;btn.setAttribute('aria-expanded','false')};
-  btn.addEventListener('click',function(){var open=menu.hidden;menu.hidden=!open;btn.setAttribute('aria-expanded',String(open))});
-  menu.addEventListener('click',function(e){if(e.target.closest('a'))close()});
-  document.addEventListener('keydown',function(e){if(e.key==='Escape')close()});
+  var bar=document.getElementById('topbar');
+  function onScroll(){bar.classList.toggle('is-scrolled',window.scrollY>40)}
+  window.addEventListener('scroll',onScroll,{passive:true});onScroll();
+  [].forEach.call(document.querySelectorAll('form[data-preview]'),function(f){
+    f.addEventListener('submit',function(e){e.preventDefault();var n=f.querySelector('.note');if(n)n.hidden=false});
+  });
+  var chips=[].slice.call(document.querySelectorAll('.chip'));
+  chips.forEach(function(c){c.addEventListener('click',function(){
+    chips.forEach(function(x){x.classList.toggle('is-on',x===c)});
+    var t=c.getAttribute('data-t');
+    [].forEach.call(document.querySelectorAll('.post'),function(p){p.hidden=!(t==='all'||p.getAttribute('data-t')===t)});
+  })});
 })();
 </script>
-<script type="module" src="forms.js"></script>
+<script type="module" src="/forms.js"></script>
 </body>
 </html>
