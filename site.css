@@ -401,3 +401,6 @@ footer{background:var(--night);color:var(--hero-muted);border-top:1px solid var(
 .about-box .label{margin-bottom:8px}
 .about-box p:not(.label){font-size:1rem}
 @media (max-width:640px){.fig{padding:16px 12px 12px;overflow-x:auto}.fig .chart{min-width:600px}}
+
+/* header stacks above page content so the fixed nav is never covered (header has isolation:isolate) */
+.hero,.page-hero{z-index:20}
