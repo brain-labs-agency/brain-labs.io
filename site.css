@@ -369,3 +369,35 @@ footer{background:var(--night);color:var(--hero-muted);border-top:1px solid var(
 .book-box p:not(.label){color:var(--hero-muted)}
 .book-box .btn{justify-self:start}
 @media (max-width:640px){.bl-row{grid-template-columns:1fr}}
+/* ---------- long-form blog ---------- */
+.prose h2{display:flex;gap:14px;align-items:baseline;margin-top:34px;padding-top:26px;border-top:1px solid var(--line)}
+.prose h2 .num{font:600 .8rem/1 var(--sans);letter-spacing:.16em;color:var(--accent-text);flex:none}
+.takeaways{padding:24px 26px;border-radius:6px;background:var(--night);color:var(--hero-ink)}
+.takeaways .label{color:var(--hero-gold);margin-bottom:10px}
+.takeaways ul{margin:0;padding-left:1.1em;display:grid;gap:8px}
+.takeaways li{color:var(--hero-ink);font-size:1.02rem;line-height:1.6}
+.toc a{display:flex;gap:12px}
+.toc a span{font:600 .75rem/1.9 var(--sans);letter-spacing:.12em;color:var(--accent-text)}
+.cta-inline{display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:space-between}
+.cta-inline p{flex:1 1 280px}
+.fig{margin:8px 0;padding:22px 22px 16px;background:var(--surface);border:1px solid var(--line);border-radius:6px}
+.fig figcaption{margin-top:12px;font-size:.88rem;line-height:1.55;color:var(--muted)}
+.fig figcaption a{color:var(--muted)}
+.chart{width:100%;height:auto;display:block;overflow:visible}
+.chart .ax{font:500 11px var(--sans);fill:var(--muted)}
+.chart .lb{font:500 13px var(--sans);fill:var(--ink)}
+.chart .vl{font:600 12px var(--sans);fill:var(--ink)}
+.chart .in{font:600 11px var(--sans);fill:#fff}
+.chart .sg{font:600 13px var(--sans);fill:#fff}
+.chart .dl{font:400 11.5px var(--sans);fill:var(--muted)}
+.chart rect:hover{opacity:.85}
+.tbl{overflow-x:auto;border:1px solid var(--line);border-radius:6px}
+.tbl table{width:100%;border-collapse:collapse;font-size:.95rem;line-height:1.5;min-width:560px}
+.tbl th{text-align:left;font:600 .72rem/1.3 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);background:var(--surface);padding:12px 14px;border-bottom:1px solid var(--line)}
+.tbl td{padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--ink)}
+.tbl tr:last-child td{border-bottom:0}
+.faq-list details:first-child{border-top:0}
+.about-box{margin-top:18px;padding:22px 24px;border:1px solid var(--line);border-radius:6px;background:var(--surface)}
+.about-box .label{margin-bottom:8px}
+.about-box p:not(.label){font-size:1rem}
+@media (max-width:640px){.fig{padding:16px 12px 12px;overflow-x:auto}.fig .chart{min-width:600px}}
