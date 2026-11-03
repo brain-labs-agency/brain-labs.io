@@ -39,11 +39,11 @@ fig3 = figure(3, steps('How an Agent Base splits the work between AI agents and 
     ('Scout', 'finds accounts'),
     ('Lens', 'researches'),
     ('Quill', 'drafts'),
-    ('Manager', 'approves'),
+    ('Person', 'approves'),
     ('Relay', 'sends'),
     ('Echo', 'sorts replies'),
     ('Atlas', 'briefs closer'),
-], accent=('Manager',)),
+], accent=('Person',)),
     'Six agents handle research, drafting, sending, reply sorting and meeting briefs. The dedicated Agent Base manager (amber) reads and approves every email before it reaches a buyer.')
 
 POST = {
