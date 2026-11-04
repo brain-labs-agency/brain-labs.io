@@ -34,8 +34,8 @@ Update Nov 2 (evening):
 | 1 | How to hire a bilingual SDR from Latin America | "hire sales talent in latin america" | GSC 17 impr | T | A | live |
 | 2 | AI SDR vs human SDR: which one books meetings that close? | "ai sdr vs human sdr" | AC; Bing "ai sdr" 219 | AB | A | live |
 | 3 | Building a native-level English sales team from Latin America | "native speaking sales team" | GSC 29 impr (top query) | T | A | live |
-| 4 | What is SDR as a Service? (upgrade the short post to long form) | "sdr as a service meaning / model / companies" | AC | AB | A | todo |
-| 5 | Where to hire bilingual LatAm cold callers for US B2B outbound | "where can i hire bilingual latam cold callers experienced in us b2b outbound" | GSC 22 impr | T | A | todo |
+| 4 | What is SDR as a Service? (upgrade the short post to long form) | "sdr as a service meaning / model / companies" | AC | AB | A | live |
+| 5 | Where to hire bilingual LatAm cold callers for US B2B outbound | "where can i hire bilingual latam cold callers experienced in us b2b outbound" | GSC 22 impr | T | A | live |
 | 6 | Lead generation for staffing and recruitment agencies: what works in 2026 | "lead generation for staffing companies", "how to get clients for recruitment agency" | AC; core ICP (staffing) | AB | A | todo |
 | 7 | Outsourced SDR vs in-house SDR: what actually works | "outsourced sdr vs hiring in-house what actually works better" | Reddit thread; AC "outsourced sdr reddit" | AB | A | todo |
 | 8 | How to interview an SDR: the 20-minute screen | "sdr interview process" | AC | T | A | todo |
