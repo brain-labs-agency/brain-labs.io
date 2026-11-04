@@ -9,7 +9,7 @@ Never use page heroes or section images (hero-*.jpg, part-*.jpg) in posts.
 | blog-hiring | blog/hire-bilingual-sdr-latin-america |
 | blog-ai | blog/ai-sdr-vs-human-sdr |
 | blog-sdr | blog/sdr-as-a-service |
-| (new, pending) | blog/native-english-sales-team-latin-america (currently hero-talent, to replace) |
+| blog-native-english | blog/native-english-sales-team-latin-america |
 | blog-signal | blog/hire-bilingual-cold-callers-latin-america |
 | hero-blog | /blog index hero only |
 
