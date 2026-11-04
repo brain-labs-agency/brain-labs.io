@@ -10,13 +10,12 @@ Never use page heroes or section images (hero-*.jpg, part-*.jpg) in posts.
 | blog-ai | blog/ai-sdr-vs-human-sdr |
 | blog-sdr | blog/sdr-as-a-service |
 | (new, pending) | blog/native-english-sales-team-latin-america (currently hero-talent, to replace) |
-| (new, pending) | blog/hire-bilingual-cold-callers-latin-america (currently hero-careers, to replace) |
+| blog-signal | blog/hire-bilingual-cold-callers-latin-america |
 | hero-blog | /blog index hero only |
 
 ## Available (unused)
 | Image | What it shows | Good for |
 |---|---|---|
-| blog-signal | Phone with an incoming call next to a laptop showing a LinkedIn profile | Signal-based outbound, LinkedIn outreach |
 | blog-email | Person typing an email at a sunny desk with a plant | Cold email, deliverability, reply rates |
 | blog-cost | Notebook with a hand-drawn bar chart, calculator, coffee | Pipeline, metrics, benchmarks (no prices in the post) |
 
