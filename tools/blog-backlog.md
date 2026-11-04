@@ -7,7 +7,7 @@ How this list was built:
 - **Community**: threads on Reddit, Bravado and SaaStr where buyers ask this.
 - **AI-cited**: the kind of page ChatGPT and Perplexity cite for the query, which is mostly buyer guides, "questions to ask" lists and comparisons. Write to answer the question in the first 2 sentences of each section.
 
-Rules: no prices, no rates, no salaries (see the blog plan). No em dashes. Long form per tools/blogkit.py.
+Rules: no prices, no rates, no salaries (see the blog plan). No em dashes. Never reuse an image (see tools/blog-images.md). Long form per tools/blogkit.py.
 
 Service tags:
 - **AB**: Agent Base (outbound done for you).
@@ -96,19 +96,8 @@ These have strong intent, but answering them means quoting figures:
 
 Revisit only if Vero changes the rule.
 
-## Image library (scheduled runs can't generate new photos)
-Reuse what is in img/:
-- blog-ai
-- blog-cost
-- blog-email
-- blog-hiring
-- blog-sdr
-- blog-signal
-- hero-blog
-- hero-talent
-- hero-careers
-- part-agents
-- part-dashboard
-- part-manager
-
-Each post gets 2 to 3 custom SVG charts via blogkit helpers. Flag in the review message when a post needs a new photo.
+## Images: one per post, never reused
+Follow tools/blog-images.md. Each post gets an image no other post or page uses.
+Never use page heroes or section images (hero-*, part-*).
+Take an image from "Available" in tools/blog-images.md if it fits the topic; otherwise build a branded cover as described there.
+Move the image to "In use" with the post slug, in the same commit as the post.
