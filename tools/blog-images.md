@@ -11,13 +11,14 @@ Never use page heroes or section images (hero-*.jpg, part-*.jpg) in posts.
 | blog-sdr | blog/sdr-as-a-service |
 | blog-native-english | blog/native-english-sales-team-latin-america |
 | blog-signal | blog/hire-bilingual-cold-callers-latin-america |
+| blog-cost | blog/lead-generation-staffing-recruitment-agencies |
+| cover-sdr-interview-process | blog/sdr-interview-process (branded cover) |
 | hero-blog | /blog index hero only |
 
 ## Available (unused)
 | Image | What it shows | Good for |
 |---|---|---|
 | blog-email | Person typing an email at a sunny desk with a plant | Cold email, deliverability, reply rates |
-| blog-cost | Notebook with a hand-drawn bar chart, calculator, coffee | Pipeline, metrics, benchmarks (no prices in the post) |
 
 ## When nothing fits or the list is empty
 Do not reuse. Build a branded cover instead: 1600x900, background gradient #0d4747 to #061f20, the post category in small caps (#efbf6e), a short headline (Fraunces style serif, #f6f1e7), and one simple chart or number motif in amber. Render an HTML page with Playwright (Chromium is pre-installed) to img/cover-<slug>.jpg (quality 85) plus a .webp, then add it to "In use" above.

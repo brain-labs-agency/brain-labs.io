@@ -36,9 +36,9 @@ Update Nov 2 (evening):
 | 3 | Building a native-level English sales team from Latin America | "native speaking sales team" | GSC 29 impr (top query) | T | A | live |
 | 4 | What is SDR as a Service? (upgrade the short post to long form) | "sdr as a service meaning / model / companies" | AC | AB | A | live |
 | 5 | Where to hire bilingual LatAm cold callers for US B2B outbound | "where can i hire bilingual latam cold callers experienced in us b2b outbound" | GSC 22 impr | T | A | live |
-| 6 | Lead generation for staffing and recruitment agencies: what works in 2026 | "lead generation for staffing companies", "how to get clients for recruitment agency" | AC; core ICP (staffing) | AB | A | todo |
+| 6 | Lead generation for staffing and recruitment agencies: what works in 2026 | "lead generation for staffing companies", "how to get clients for recruitment agency" | AC; core ICP (staffing) | AB | A | draft |
 | 7 | Outsourced SDR vs in-house SDR: what actually works | "outsourced sdr vs hiring in-house what actually works better" | Reddit thread; AC "outsourced sdr reddit" | AB | A | todo |
-| 8 | How to interview an SDR: the 20-minute screen | "sdr interview process" | AC | T | A | todo |
+| 8 | How to interview an SDR: the 20-minute screen | "sdr interview process" | AC | T | A | draft |
 | 9 | Lead generation for SaaS companies: outbound that books demos | "lead generation for saas companies" | AC; core ICP (SaaS) | AB | A | todo |
 | 10 | Are AI SDRs worth it? What happened to fully autonomous AI SDRs | "are ai sdrs worth it", "ai sdr review", "ai sdr reddit" | AC; Reddit churn threads | AB | A | todo |
 | 11 | SDR onboarding plan: the first 30, 60 and 90 days | "sdr onboarding plan" | AC | T | A | todo |
