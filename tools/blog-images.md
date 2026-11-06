@@ -13,6 +13,8 @@ Never use page heroes or section images (hero-*.jpg, part-*.jpg) in posts.
 | blog-signal | blog/hire-bilingual-cold-callers-latin-america |
 | blog-cost | blog/lead-generation-staffing-recruitment-agencies |
 | cover-sdr-interview-process | blog/sdr-interview-process (branded cover) |
+| cover-outsourced-sdr-vs-in-house-sdr | blog/outsourced-sdr-vs-in-house-sdr (branded cover) |
+| cover-sdr-onboarding-plan | blog/sdr-onboarding-plan (branded cover) |
 | hero-blog | /blog index hero only |
 
 ## Available (unused)

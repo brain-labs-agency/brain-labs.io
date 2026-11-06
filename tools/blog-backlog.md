@@ -37,11 +37,11 @@ Update Nov 2 (evening):
 | 4 | What is SDR as a Service? (upgrade the short post to long form) | "sdr as a service meaning / model / companies" | AC | AB | A | live |
 | 5 | Where to hire bilingual LatAm cold callers for US B2B outbound | "where can i hire bilingual latam cold callers experienced in us b2b outbound" | GSC 22 impr | T | A | live |
 | 6 | Lead generation for staffing and recruitment agencies: what works in 2026 | "lead generation for staffing companies", "how to get clients for recruitment agency" | AC; core ICP (staffing) | AB | A | live |
-| 7 | Outsourced SDR vs in-house SDR: what actually works | "outsourced sdr vs hiring in-house what actually works better" | Reddit thread; AC "outsourced sdr reddit" | AB | A | todo |
+| 7 | Outsourced SDR vs in-house SDR: what actually works | "outsourced sdr vs hiring in-house what actually works better" | Reddit thread; AC "outsourced sdr reddit" | AB | A | draft |
 | 8 | How to interview an SDR: the 20-minute screen | "sdr interview process" | AC | T | A | live |
 | 9 | Lead generation for SaaS companies: outbound that books demos | "lead generation for saas companies" | AC; core ICP (SaaS) | AB | A | todo |
 | 10 | Are AI SDRs worth it? What happened to fully autonomous AI SDRs | "are ai sdrs worth it", "ai sdr review", "ai sdr reddit" | AC; Reddit churn threads | AB | A | todo |
-| 11 | SDR onboarding plan: the first 30, 60 and 90 days | "sdr onboarding plan" | AC | T | A | todo |
+| 11 | SDR onboarding plan: the first 30, 60 and 90 days | "sdr onboarding plan" | AC | T | A | draft |
 | 12 | 12 questions to ask an outsourced SDR agency before you sign | "questions to ask outsourced sdr agency" | AI-cited format (Belkins, Danish Lead Co rank) | AB | A | todo |
 | 13 | Hiring sales reps in Colombia, Argentina or Mexico: how to choose | "hire sales reps latin america" by country | Near data: Colombia now top LatAm hiring market; EF EPI | T | A | todo |
 | 14 | B2B appointment setting companies in the USA: how to choose one | "b2b appointment setting companies in usa", "appointment setting for b2b" | AC; AI-cited format | AB | A | todo |
