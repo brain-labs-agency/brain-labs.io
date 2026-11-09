@@ -39,11 +39,11 @@ Update Nov 2 (evening):
 | 6 | Lead generation for staffing and recruitment agencies: what works in 2026 | "lead generation for staffing companies", "how to get clients for recruitment agency" | AC; core ICP (staffing) | AB | A | live |
 | 7 | Outsourced SDR vs in-house SDR: what actually works | "outsourced sdr vs hiring in-house what actually works better" | Reddit thread; AC "outsourced sdr reddit" | AB | A | live |
 | 8 | How to interview an SDR: the 20-minute screen | "sdr interview process" | AC | T | A | live |
-| 9 | Lead generation for SaaS companies: outbound that books demos | "lead generation for saas companies" | AC; core ICP (SaaS) | AB | A | todo |
+| 9 | Lead generation for SaaS companies: outbound that books demos | "lead generation for saas companies" | AC; core ICP (SaaS) | AB | A | draft |
 | 10 | Are AI SDRs worth it? What happened to fully autonomous AI SDRs | "are ai sdrs worth it", "ai sdr review", "ai sdr reddit" | AC; Reddit churn threads | AB | A | todo |
 | 11 | SDR onboarding plan: the first 30, 60 and 90 days | "sdr onboarding plan" | AC | T | A | live |
 | 12 | 12 questions to ask an outsourced SDR agency before you sign | "questions to ask outsourced sdr agency" | AI-cited format (Belkins, Danish Lead Co rank) | AB | A | todo |
-| 13 | Hiring sales reps in Colombia, Argentina or Mexico: how to choose | "hire sales reps latin america" by country | Near data: Colombia now top LatAm hiring market; EF EPI | T | A | todo |
+| 13 | Hiring sales reps in Colombia, Argentina or Mexico: how to choose | "hire sales reps latin america" by country | Near data: Colombia now top LatAm hiring market; EF EPI | T | A | draft |
 | 14 | B2B appointment setting companies in the USA: how to choose one | "b2b appointment setting companies in usa", "appointment setting for b2b" | AC; AI-cited format | AB | A | todo |
 | 15 | Why outsourced SDR programs fail (and how to spot it in month one) | "outsourced sdrs don't work" | SaaStr "only 7%" piece; Reddit | AB | A | todo |
 | 16 | AI agents for sales teams: what they do well and where a human still decides | "ai agents for sales teams", "ai agent for lead generation" | AC; Bing "ai sales agent" 126 | AB | A | todo |
