@@ -15,6 +15,8 @@ Never use page heroes or section images (hero-*.jpg, part-*.jpg) in posts.
 | cover-sdr-interview-process | blog/sdr-interview-process (branded cover) |
 | cover-outsourced-sdr-vs-in-house-sdr | blog/outsourced-sdr-vs-in-house-sdr (branded cover) |
 | cover-sdr-onboarding-plan | blog/sdr-onboarding-plan (branded cover) |
+| cover-are-ai-sdrs-worth-it | blog/are-ai-sdrs-worth-it (branded cover) |
+| cover-hire-sdr-or-ae-first | blog/hire-sdr-or-ae-first (branded cover) |
 | hero-blog | /blog index hero only |
 
 ## Available (unused)
