@@ -37,7 +37,7 @@ When drafting a post: if its topic has a reserved photo here, use it and move it
 | blog-signal-outbound | 19 | Signal-based outbound: start where the buyer can be reached (Over-the-shoulder rep at a laptop with a company news feed, headset on the desk) |
 | blog-human-review | 20 | Human in the loop: why every AI-written email needs a reviewer (Two colleagues editing an email together on one laptop) |
 | blog-outbound-services | 21 | Outbound lead generation services: what is included and what to ask (Team of three planning a campaign, funnel drawn on a whiteboard) |
-| blog-agent-office | 23 | AI agent offices: what the visual agent trend means for sales teams (Woman smiling at a pixel-art virtual office on her monitor, evening) |
+| blog-agent-office | 23 | AI agent offices: what the visual agent trend means for sales teams (Woman smiling at her monitor showing an Agent Base style dashboard: 3D hex-tile base on orange sand, evening) |
 | blog-agent-dashboard | 24 | Can you see your AI SDR working? Why outbound agents shouldn't be a black box (Sales ops lead with arms crossed in front of an activity dashboard) |
 
 ## When nothing fits or the list is empty
