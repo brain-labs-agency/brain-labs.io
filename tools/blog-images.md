@@ -19,6 +19,8 @@ Never use page heroes or section images (hero-*.jpg, part-*.jpg) in posts.
 | cover-hire-sdr-or-ae-first | blog/hire-sdr-or-ae-first (branded cover) |
 | cover-lead-generation-saas-companies | blog/lead-generation-saas-companies (branded cover) |
 | cover-hire-sales-reps-colombia-argentina-mexico | blog/hire-sales-reps-colombia-argentina-mexico (branded cover) |
+| cover-questions-to-ask-outsourced-sdr-agency | blog/questions-to-ask-outsourced-sdr-agency (branded cover) |
+| cover-nearshore-vs-offshore-sales-teams | blog/nearshore-vs-offshore-sales-teams (branded cover) |
 | hero-blog | /blog index hero only |
 
 ## Available (unused)
