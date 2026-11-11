@@ -42,7 +42,7 @@ Update Nov 2 (evening):
 | 9 | Lead generation for SaaS companies: outbound that books demos | "lead generation for saas companies" | AC; core ICP (SaaS) | AB | A | todo |
 | 10 | Are AI SDRs worth it? What happened to fully autonomous AI SDRs | "are ai sdrs worth it", "ai sdr review", "ai sdr reddit" | AC; Reddit churn threads | AB | A | live |
 | 11 | SDR onboarding plan: the first 30, 60 and 90 days | "sdr onboarding plan" | AC | T | A | live |
-| 12 | 12 questions to ask an outsourced SDR agency before you sign | "questions to ask outsourced sdr agency" | AI-cited format (Belkins, Danish Lead Co rank) | AB | A | todo |
+| 12 | 12 questions to ask an outsourced SDR agency before you sign | "questions to ask outsourced sdr agency" | AI-cited format (Belkins, Danish Lead Co rank) | AB | A | draft |
 | 13 | Hiring sales reps in Colombia, Argentina or Mexico: how to choose | "hire sales reps latin america" by country | Near data: Colombia now top LatAm hiring market; EF EPI | T | A | todo |
 | 14 | B2B appointment setting companies in the USA: how to choose one | "b2b appointment setting companies in usa", "appointment setting for b2b" | AC; AI-cited format | AB | A | todo |
 | 15 | Why outsourced SDR programs fail (and how to spot it in month one) | "outsourced sdrs don't work" | SaaStr "only 7%" piece; Reddit | AB | A | todo |
@@ -52,7 +52,7 @@ Update Nov 2 (evening):
 | 19 | Signal-based outbound: start where the buyer can be reached | "signal based selling", "signal based outbound" | AC | AB | A | todo |
 | 20 | Human in the loop: why every AI-written email needs a reviewer | "ai sdr" plus "human review" angle | Hybrid model is the 2026 consensus | AB | A | todo |
 | 21 | Outbound lead generation services: what is included and what to ask | "outbound lead generation services / agency / tools" | AC | AB | A | todo |
-| 22 | Nearshore vs offshore sales teams: what changes for US buyers | "what is considered nearshore", "inshore vs nearshore" | AC | T | B | todo |
+| 22 | Nearshore vs offshore sales teams: what changes for US buyers | "what is considered nearshore", "inshore vs nearshore" | AC | T | B | draft |
 | 23 | AI agent offices: what the visual agent trend means for sales teams | "ai agent office", "pixel agents" | Social trend; dev tools like Pixel Agents and AI Office | AB | B | todo |
 | 24 | Can you see your AI SDR working? Why outbound agents shouldn't be a black box | "ai agents visualized" trend; AI SDR churn complaints | Social trend (pixel agent offices); pairs with the LinkedIn video | AB | B | todo |
 | 25 | Why are my cold emails not working? A diagnostic | "why are my cold emails not working" | AC | AB | B | todo |
