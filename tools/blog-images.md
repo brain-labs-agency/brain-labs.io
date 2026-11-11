@@ -24,5 +24,13 @@ Never use page heroes or section images (hero-*.jpg, part-*.jpg) in posts.
 |---|---|---|
 | blog-email | Person typing an email at a sunny desk with a plant | Cold email, deliverability, reply rates |
 
+## Photo stock (Gemini batches)
+Vero and Claude generate a batch of 6 to 8 photos about once a week, for the next topics in the backlog. Each photo is reserved for one topic.
+When drafting a post: if its topic has a reserved photo here, use it and move it to "In use". If not, use an "Available" image that fits, else build a branded cover.
+
+| Image | Reserved for backlog # | Topic |
+|---|---|---|
+| blog-email | 18 | Why are my cold emails going to spam? |
+
 ## When nothing fits or the list is empty
 Do not reuse. Build a branded cover instead: 1600x900, background gradient #0d4747 to #061f20, the post category in small caps (#efbf6e), a short headline (Fraunces style serif, #f6f1e7), and one simple chart or number motif in amber. Render an HTML page with Playwright (Chromium is pre-installed) to img/cover-<slug>.jpg (quality 85) plus a .webp, then add it to "In use" above.
