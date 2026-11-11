@@ -31,6 +31,14 @@ When drafting a post: if its topic has a reserved photo here, use it and move it
 | Image | Reserved for backlog # | Topic |
 |---|---|---|
 | blog-email | 18 | Why are my cold emails going to spam? |
+| blog-appointment-setting | 14 | B2B appointment setting companies in the USA: how to choose one (US founder smiling at a monitor with a full calendar of booked meetings) |
+| blog-sdr-program-fails | 15 | Why outsourced SDR programs fail (and how to spot it in month one) (Sales manager frowning at a pipeline report, crossed-out sticky notes behind her) |
+| blog-ai-agents-sales | 16 | AI agents for sales teams: what they do well and where a human still decides (Latin American rep reviewing a draft email on a laptop with a pen) |
+| blog-signal-outbound | 19 | Signal-based outbound: start where the buyer can be reached (Over-the-shoulder rep at a laptop with a company news feed, headset on the desk) |
+| blog-human-review | 20 | Human in the loop: why every AI-written email needs a reviewer (Two colleagues editing an email together on one laptop) |
+| blog-outbound-services | 21 | Outbound lead generation services: what is included and what to ask (Team of three planning a campaign, funnel drawn on a whiteboard) |
+| blog-agent-office | 23 | AI agent offices: what the visual agent trend means for sales teams (Woman smiling at a pixel-art virtual office on her monitor, evening) |
+| blog-agent-dashboard | 24 | Can you see your AI SDR working? Why outbound agents shouldn't be a black box (Sales ops lead with arms crossed in front of an activity dashboard) |
 
 ## When nothing fits or the list is empty
 Do not reuse. Build a branded cover instead: 1600x900, background gradient #0d4747 to #061f20, the post category in small caps (#efbf6e), a short headline (Fraunces style serif, #f6f1e7), and one simple chart or number motif in amber. Render an HTML page with Playwright (Chromium is pre-installed) to img/cover-<slug>.jpg (quality 85) plus a .webp, then add it to "In use" above.
