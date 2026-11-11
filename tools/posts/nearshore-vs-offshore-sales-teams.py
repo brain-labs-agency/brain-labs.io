@@ -16,7 +16,7 @@ FTC = 'https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-g
 BRIDGE25 = 'https://www.bridgegroupinc.com/research/2025-sdr-models-metrics-report-the-bridge-group'
 
 fig1 = figure(1, bar_chart('Hours of difference from New York during US summer time', [
-    ('Bogota, Colombia', 0),
+    ('Bogota, Colombia', 1),
     ('Buenos Aires, Argentina', 1),
     ('Mexico City, Mexico', 2),
     ('Warsaw, Poland', 6),
@@ -86,7 +86,7 @@ POST = {
         )),
         ('time-zones', 'Time zones: the biggest difference for sales', (
             '<p>Time zones are the biggest practical difference between nearshore and offshore for sales roles. A nearshore rep in Colombia or Mexico sells during their normal working day because it overlaps almost fully with the US; an offshore rep in Manila or Bengaluru calling US buyers usually works through the night.</p>'
-            '<p>According to ' + a(HOWDY, 'Howdy\'s comparison of time zone overlap') + ', Colombia shares US Eastern time, Argentina is about one hour ahead and Mexico shares time zones with much of the US. India sits 9.5 to 12.5 hours away from US Eastern time and the Philippines 12 to 15, leaving about an hour or less of overlap in a normal working day.</p>'
+            '<p>According to ' + a(HOWDY, 'Howdy\'s comparison of time zone overlap') + ', Mexico shares time zones with much of the US, and Latin American hubs stay within a couple of hours of the East Coast all year. Using standard UTC offsets, Colombia matches US Eastern time from November to March and sits one hour behind the rest of the year, Argentina is one to two hours ahead and Mexico City is one to two hours behind. India sits 9.5 to 10.5 hours ahead of US Eastern time and the Philippines 12 to 13, leaving about an hour or less of overlap in a normal working day.</p>'
             + fig1 +
             '<p>For an engineering team, a big gap can be managed with handoffs and written updates. For a sales team, it is harder to work around:</p>'
             '<ul><li><b>Cold calls happen in the buyer\'s day.</b> Buyers answer the phone during business hours in their own time zone. An offshore caller has to shift their whole schedule to match.</li>'
