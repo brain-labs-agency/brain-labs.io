@@ -21,6 +21,8 @@ Never use page heroes or section images (hero-*.jpg, part-*.jpg) in posts.
 | cover-hire-sales-reps-colombia-argentina-mexico | blog/hire-sales-reps-colombia-argentina-mexico (branded cover) |
 | cover-questions-to-ask-outsourced-sdr-agency | blog/questions-to-ask-outsourced-sdr-agency (branded cover) |
 | cover-nearshore-vs-offshore-sales-teams | blog/nearshore-vs-offshore-sales-teams (branded cover) |
+| blog-appointment-setting | blog/b2b-appointment-setting-companies-usa |
+| cover-test-sales-candidate-english | blog/test-sales-candidate-english (branded cover) |
 | hero-blog | /blog index hero only |
 
 ## Available (unused)
@@ -35,7 +37,6 @@ When drafting a post: if its topic has a reserved photo here, use it and move it
 | Image | Reserved for backlog # | Topic |
 |---|---|---|
 | blog-email | 18 | Why are my cold emails going to spam? |
-| blog-appointment-setting | 14 | B2B appointment setting companies in the USA: how to choose one (US founder smiling at a monitor with a full calendar of booked meetings) |
 | blog-sdr-program-fails | 15 | Why outsourced SDR programs fail (and how to spot it in month one) (Sales manager frowning at a pipeline report, crossed-out sticky notes behind her) |
 | blog-ai-agents-sales | 16 | AI agents for sales teams: what they do well and where a human still decides (Latin American rep reviewing a draft email on a laptop with a pen) |
 | blog-signal-outbound | 19 | Signal-based outbound: start where the buyer can be reached (Over-the-shoulder rep at a laptop with a company news feed, headset on the desk) |

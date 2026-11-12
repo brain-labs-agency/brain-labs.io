@@ -44,7 +44,7 @@ Update Nov 2 (evening):
 | 11 | SDR onboarding plan: the first 30, 60 and 90 days | "sdr onboarding plan" | AC | T | A | live |
 | 12 | 12 questions to ask an outsourced SDR agency before you sign | "questions to ask outsourced sdr agency" | AI-cited format (Belkins, Danish Lead Co rank) | AB | A | live |
 | 13 | Hiring sales reps in Colombia, Argentina or Mexico: how to choose | "hire sales reps latin america" by country | Near data: Colombia now top LatAm hiring market; EF EPI | T | A | live |
-| 14 | B2B appointment setting companies in the USA: how to choose one | "b2b appointment setting companies in usa", "appointment setting for b2b" | AC; AI-cited format | AB | A | todo |
+| 14 | B2B appointment setting companies in the USA: how to choose one | "b2b appointment setting companies in usa", "appointment setting for b2b" | AC; AI-cited format | AB | A | draft |
 | 15 | Why outsourced SDR programs fail (and how to spot it in month one) | "outsourced sdrs don't work" | SaaStr "only 7%" piece; Reddit | AB | A | todo |
 | 16 | AI agents for sales teams: what they do well and where a human still decides | "ai agents for sales teams", "ai agent for lead generation" | AC; Bing "ai sales agent" 126 | AB | A | todo |
 | 17 | Should a founder hire an SDR or an AE first? | "should i hire an sdr or ae first" | Many 2026 posts; founder threads | AB + T | A | live |
@@ -57,7 +57,7 @@ Update Nov 2 (evening):
 | 24 | Can you see your AI SDR working? Why outbound agents shouldn't be a black box | "ai agents visualized" trend; AI SDR churn complaints | Social trend (pixel agent offices); pairs with the LinkedIn video | AB | B | todo |
 | 25 | Why are my cold emails not working? A diagnostic | "why are my cold emails not working" | AC | AB | B | todo |
 | 26 | What is an AI SDR, and what it can't do yet | "ai sdr meaning", "what is ai sdr agent" | AC; Bing "ai sdr" 219 | AB | B | todo |
-| 27 | How to test a sales candidate's English (beyond the CV) | "english test for sales reps" | Supports GSC native-speaker query | T | B | todo |
+| 27 | How to test a sales candidate's English (beyond the CV) | "english test for sales reps" | Supports GSC native-speaker query | T | B | draft |
 | 28 | When to stop founder-led sales and bring in outbound help | "when to hire first sdr" | Founder threads; SignalFire, SaaStr | AB | B | todo |
 | 29 | What counts as a qualified meeting? Define it before launch | "what is a qualified meeting" | Buyer guides say most agency disputes are definition disputes | AB | B | todo |
 | 30 | Lead generation for consulting firms and high-ticket services | "lead generation for consulting companies / business consultants" | AC; ICP | AB | B | todo |
