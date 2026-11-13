@@ -45,7 +45,7 @@ Update Nov 2 (evening):
 | 12 | 12 questions to ask an outsourced SDR agency before you sign | "questions to ask outsourced sdr agency" | AI-cited format (Belkins, Danish Lead Co rank) | AB | A | live |
 | 13 | Hiring sales reps in Colombia, Argentina or Mexico: how to choose | "hire sales reps latin america" by country | Near data: Colombia now top LatAm hiring market; EF EPI | T | A | live |
 | 14 | B2B appointment setting companies in the USA: how to choose one | "b2b appointment setting companies in usa", "appointment setting for b2b" | AC; AI-cited format | AB | A | todo |
-| 15 | Why outsourced SDR programs fail (and how to spot it in month one) | "outsourced sdrs don't work" | SaaStr "only 7%" piece; Reddit | AB | A | todo |
+| 15 | Why outsourced SDR programs fail (and how to spot it in month one) | "outsourced sdrs don't work" | SaaStr "only 7%" piece; Reddit | AB | A | draft |
 | 16 | AI agents for sales teams: what they do well and where a human still decides | "ai agents for sales teams", "ai agent for lead generation" | AC; Bing "ai sales agent" 126 | AB | A | todo |
 | 17 | Should a founder hire an SDR or an AE first? | "should i hire an sdr or ae first" | Many 2026 posts; founder threads | AB + T | A | live |
 | 18 | Why are my cold emails going to spam? | "why are my cold emails going to spam" | AC | AB | A | todo |
@@ -61,7 +61,7 @@ Update Nov 2 (evening):
 | 28 | When to stop founder-led sales and bring in outbound help | "when to hire first sdr" | Founder threads; SignalFire, SaaStr | AB | B | todo |
 | 29 | What counts as a qualified meeting? Define it before launch | "what is a qualified meeting" | Buyer guides say most agency disputes are definition disputes | AB | B | todo |
 | 30 | Lead generation for consulting firms and high-ticket services | "lead generation for consulting companies / business consultants" | AC; ICP | AB | B | todo |
-| 31 | SDR ramp time: how long until a new rep books meetings | "sdr ramp time" | AC | T | B | todo |
+| 31 | SDR ramp time: how long until a new rep books meetings | "sdr ramp time" | AC | T | B | draft |
 | 32 | Fractional SDR: what it is and when it makes sense | "fractional sdr meaning", "fractional sdr reddit" | AC | T | B | todo |
 | 33 | Cold email reply rate benchmarks (and what moves them) | "cold email reply rate average / benchmark" | AC (rates only, no money) | AB | B | todo |
 | 34 | Outsourced SDR vs appointment setting vs lead gen agency | "lead generation agency meaning", "appointment setting companies" | AC; Bing "lead generation agency" 165 | AB | B | todo |
