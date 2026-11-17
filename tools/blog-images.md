@@ -21,12 +21,13 @@ Never use page heroes or section images (hero-*.jpg, part-*.jpg) in posts.
 | cover-hire-sales-reps-colombia-argentina-mexico | blog/hire-sales-reps-colombia-argentina-mexico (branded cover) |
 | cover-questions-to-ask-outsourced-sdr-agency | blog/questions-to-ask-outsourced-sdr-agency (branded cover) |
 | cover-nearshore-vs-offshore-sales-teams | blog/nearshore-vs-offshore-sales-teams (branded cover) |
+| blog-email | blog/why-cold-emails-go-to-spam |
+| cover-how-many-meetings-should-an-sdr-book | blog/how-many-meetings-should-an-sdr-book (branded cover) |
 | hero-blog | /blog index hero only |
 
 ## Available (unused)
 | Image | What it shows | Good for |
 |---|---|---|
-| blog-email | Person typing an email at a sunny desk with a plant | Cold email, deliverability, reply rates |
 
 ## Photo stock (Gemini batches)
 Vero and Claude generate a batch of 6 to 8 photos about once a week, for the next topics in the backlog. Each photo is reserved for one topic.
@@ -34,7 +35,6 @@ When drafting a post: if its topic has a reserved photo here, use it and move it
 
 | Image | Reserved for backlog # | Topic |
 |---|---|---|
-| blog-email | 18 | Why are my cold emails going to spam? |
 | blog-appointment-setting | 14 | B2B appointment setting companies in the USA: how to choose one (US founder smiling at a monitor with a full calendar of booked meetings) |
 | blog-sdr-program-fails | 15 | Why outsourced SDR programs fail (and how to spot it in month one) (Sales manager frowning at a pipeline report, crossed-out sticky notes behind her) |
 | blog-ai-agents-sales | 16 | AI agents for sales teams: what they do well and where a human still decides (Latin American rep reviewing a draft email on a laptop with a pen) |
