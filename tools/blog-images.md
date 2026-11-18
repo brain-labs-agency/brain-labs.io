@@ -21,6 +21,8 @@ Never use page heroes or section images (hero-*.jpg, part-*.jpg) in posts.
 | cover-hire-sales-reps-colombia-argentina-mexico | blog/hire-sales-reps-colombia-argentina-mexico (branded cover) |
 | cover-questions-to-ask-outsourced-sdr-agency | blog/questions-to-ask-outsourced-sdr-agency (branded cover) |
 | cover-nearshore-vs-offshore-sales-teams | blog/nearshore-vs-offshore-sales-teams (branded cover) |
+| blog-signal-outbound | blog/signal-based-outbound |
+| cover-sdr-vs-bdr | blog/sdr-vs-bdr (branded cover) |
 | hero-blog | /blog index hero only |
 
 ## Available (unused)
@@ -38,7 +40,6 @@ When drafting a post: if its topic has a reserved photo here, use it and move it
 | blog-appointment-setting | 14 | B2B appointment setting companies in the USA: how to choose one (US founder smiling at a monitor with a full calendar of booked meetings) |
 | blog-sdr-program-fails | 15 | Why outsourced SDR programs fail (and how to spot it in month one) (Sales manager frowning at a pipeline report, crossed-out sticky notes behind her) |
 | blog-ai-agents-sales | 16 | AI agents for sales teams: what they do well and where a human still decides (Latin American rep reviewing a draft email on a laptop with a pen) |
-| blog-signal-outbound | 19 | Signal-based outbound: start where the buyer can be reached (Over-the-shoulder rep at a laptop with a company news feed, headset on the desk) |
 | blog-human-review | 20 | Human in the loop: why every AI-written email needs a reviewer (Two colleagues editing an email together on one laptop) |
 | blog-outbound-services | 21 | Outbound lead generation services: what is included and what to ask (Team of three planning a campaign, funnel drawn on a whiteboard) |
 | blog-agent-office | 23 | AI agent offices: what the visual agent trend means for sales teams (Woman smiling at her monitor showing an Agent Base style dashboard: 3D hex-tile base on orange sand, evening) |

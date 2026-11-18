@@ -49,7 +49,7 @@ Update Nov 2 (evening):
 | 16 | AI agents for sales teams: what they do well and where a human still decides | "ai agents for sales teams", "ai agent for lead generation" | AC; Bing "ai sales agent" 126 | AB | A | todo |
 | 17 | Should a founder hire an SDR or an AE first? | "should i hire an sdr or ae first" | Many 2026 posts; founder threads | AB + T | A | live |
 | 18 | Why are my cold emails going to spam? | "why are my cold emails going to spam" | AC | AB | A | todo |
-| 19 | Signal-based outbound: start where the buyer can be reached | "signal based selling", "signal based outbound" | AC | AB | A | todo |
+| 19 | Signal-based outbound: start where the buyer can be reached | "signal based selling", "signal based outbound" | AC | AB | A | draft |
 | 20 | Human in the loop: why every AI-written email needs a reviewer | "ai sdr" plus "human review" angle | Hybrid model is the 2026 consensus | AB | A | todo |
 | 21 | Outbound lead generation services: what is included and what to ask | "outbound lead generation services / agency / tools" | AC | AB | A | todo |
 | 22 | Nearshore vs offshore sales teams: what changes for US buyers | "what is considered nearshore", "inshore vs nearshore" | AC | T | B | live |
@@ -67,7 +67,7 @@ Update Nov 2 (evening):
 | 34 | Outsourced SDR vs appointment setting vs lead gen agency | "lead generation agency meaning", "appointment setting companies" | AC; Bing "lead generation agency" 165 | AB | B | todo |
 | 35 | How many meetings should an SDR book per month? | "how many meetings should an sdr book" | AC | T | B | todo |
 | 36 | How to book more sales meetings without adding headcount | "how to book more sales meetings", "how to get more sales meetings" | AC | AB | B | todo |
-| 37 | SDR vs BDR: the difference and which one you need | "sdr vs bdr" | AC; Bing "bdr" 10K (noisy) | T | B | todo |
+| 37 | SDR vs BDR: the difference and which one you need | "sdr vs bdr" | AC; Bing "bdr" 10K (noisy) | T | B | draft |
 | 38 | Cold calling in 2026: does it still work for B2B? | "what is cold calling", "cold calling meaning" | Bing "cold calling" 2,834, "what is cold calling" 1,021 | T | B | todo |
 | 39 | Hiring appointment setters: what to look for and what to avoid | "hire appointment setters", "hire appointment setters reddit" | AC; Bing "appointment setter" US 545 | T | B | todo |
 | 40 | AI cold calling agents: what they can and can't do | "ai cold calling agent / software" | AC | AB | B | todo |
