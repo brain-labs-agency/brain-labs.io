@@ -51,7 +51,7 @@ Update Nov 2 (evening):
 | 18 | Why are my cold emails going to spam? | "why are my cold emails going to spam" | AC | AB | A | todo |
 | 19 | Signal-based outbound: start where the buyer can be reached | "signal based selling", "signal based outbound" | AC | AB | A | todo |
 | 20 | Human in the loop: why every AI-written email needs a reviewer | "ai sdr" plus "human review" angle | Hybrid model is the 2026 consensus | AB | A | todo |
-| 21 | Outbound lead generation services: what is included and what to ask | "outbound lead generation services / agency / tools" | AC | AB | A | todo |
+| 21 | Outbound lead generation services: what is included and what to ask | "outbound lead generation services / agency / tools" | AC | AB | A | draft |
 | 22 | Nearshore vs offshore sales teams: what changes for US buyers | "what is considered nearshore", "inshore vs nearshore" | AC | T | B | live |
 | 23 | AI agent offices: what the visual agent trend means for sales teams | "ai agent office", "pixel agents" | Social trend; dev tools like Pixel Agents and AI Office | AB | B | todo |
 | 24 | Can you see your AI SDR working? Why outbound agents shouldn't be a black box | "ai agents visualized" trend; AI SDR churn complaints | Social trend (pixel agent offices); pairs with the LinkedIn video | AB | B | todo |
@@ -69,7 +69,7 @@ Update Nov 2 (evening):
 | 36 | How to book more sales meetings without adding headcount | "how to book more sales meetings", "how to get more sales meetings" | AC | AB | B | todo |
 | 37 | SDR vs BDR: the difference and which one you need | "sdr vs bdr" | AC; Bing "bdr" 10K (noisy) | T | B | todo |
 | 38 | Cold calling in 2026: does it still work for B2B? | "what is cold calling", "cold calling meaning" | Bing "cold calling" 2,834, "what is cold calling" 1,021 | T | B | todo |
-| 39 | Hiring appointment setters: what to look for and what to avoid | "hire appointment setters", "hire appointment setters reddit" | AC; Bing "appointment setter" US 545 | T | B | todo |
+| 39 | Hiring appointment setters: what to look for and what to avoid | "hire appointment setters", "hire appointment setters reddit" | AC; Bing "appointment setter" US 545 | T | B | draft |
 | 40 | AI cold calling agents: what they can and can't do | "ai cold calling agent / software" | AC | AB | B | todo |
 | 41 | Hiring a remote SDR: what to change in your process | "hire remote sdr" | AC | T | B | todo |
 | 42 | Pipeline generation strategy for small sales teams | "pipeline generation strategy", "pipeline generation ai" | AC | AB | B | todo |
