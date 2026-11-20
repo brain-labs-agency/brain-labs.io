@@ -36,31 +36,46 @@
   "logo": "https://www.brain-labs.io/bl_logo.png",
   "image": "https://www.brain-labs.io/bl_logo.png",
   "email": "veronica@brain-labs.io",
-  "description": "BL Agency builds and operates outbound acquisition systems for B2B companies. We run your entire SDR function, LinkedIn prospecting, cold email, and inbox management, so you get a predictable flow of qualified sales conversations every month.",
-  "slogan": "Your outsourced outbound team. Fully done for you.",
+  "description": "BL Agency runs outbound for US B2B companies with a base of AI agents and a dedicated Agent Base manager who reviews every email. Watch it all on a live dashboard. BL Agency also places bilingual sales professionals from Latin America who work US business hours.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Albuquerque",
+    "addressRegion": "NM",
+    "addressCountry": "US"
+  },
   "founder": {
     "@type": "Person",
     "name": "Veronica Grados",
     "jobTitle": "Founder",
     "sameAs": "https://www.linkedin.com/in/veronica-grados/"
   },
-  "serviceType": ["SDR as a Service", "Outbound Sales", "B2B Lead Generation", "Cold Email Outreach", "LinkedIn Prospecting", "Sales Development", "Market Mapping", "B2B Appointment Setting"],
+  "serviceType": ["Outbound Sales", "AI SDR Agents", "SDR as a Service", "B2B Appointment Setting", "Cold Email Outreach", "LinkedIn Prospecting", "Sales Talent Placement"],
   "areaServed": [
     { "@type": "Place", "name": "North America" },
     { "@type": "Place", "name": "Europe" },
     { "@type": "Place", "name": "Latin America" }
   ],
-  "knowsAbout": ["Outbound Sales", "B2B Lead Generation", "SDR Management", "Cold Email", "LinkedIn Outreach", "Sales Pipeline", "Market Mapping", "ICP Development", "Email Deliverability", "AI Lead Enrichment"],
+  "knowsAbout": ["Outbound Sales", "B2B Lead Generation", "AI SDR Agents", "Cold Email", "LinkedIn Outreach", "Sales Pipeline", "Market Mapping", "ICP Development", "Email Deliverability", "Nearshore Sales Hiring"],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "SDR as a Service",
+    "name": "Two ways to work with BL",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "SDR as a Service",
-          "description": "We build and operate your entire outbound acquisition system, market mapping and ICP development, domain and mailbox infrastructure and warm-up, prospect list building, LinkedIn and cold email campaigns, inbox management, prospect qualification, booked sales meetings, and weekly pipeline reporting. Fully done for you."
+          "name": "The Agent Base, with a dedicated manager",
+          "description": "We run the full outbound function for you, from market mapping to booked meetings: market mapping and ideal customer profile, domain and mailbox setup and warm up, LinkedIn, email and calls on verified direct dials, and reply handling and meeting booking. AI agents do the research and drafting, a dedicated Agent Base manager approves every email, and you watch the work on a live dashboard.",
+          "url": "https://www.brain-labs.io/"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Bilingual sales reps from Latin America",
+          "description": "We place vetted SDRs, AEs, sales ops and account managers who work US business hours, screened by people who sell. Three profiles in 72 hours, interviewed in English with a live cold call roleplay, and replacement in the first 30 days.",
+          "url": "https://www.brain-labs.io/talent"
         }
       }
     ]
@@ -71,7 +86,7 @@
 }
 </script>
 
-<!-- FAQ Structured Data for GEO -->
+<!-- FAQ Structured Data for GEO (mirrors the visible questions) -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -79,10 +94,18 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What exactly is SDR as a Service?",
+      "name": "Is it all AI?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Instead of hiring, training, and managing internal SDRs, you outsource your entire sales development function to BL Agency. We build and run the outbound system, LinkedIn prospecting, cold email, inbox management, and meeting booking, on your behalf, so your team only focuses on closing."
+        "text": "No. The agents do the research, the drafting and the sorting. A dedicated Agent Base manager reads and approves every email before it is sent, and handles the replies that need a person."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What can I see on the dashboard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Every lead the agents find, every email sent, every reply and every meeting booked, as it happens. You don't have to wait for a weekly report."
       }
     },
     {
@@ -90,7 +113,7 @@
       "name": "How long before we see results?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We start with a 3-week infrastructure and email warm-up phase to ensure maximum deliverability. After that, campaigns go live and qualified conversations typically start appearing within the first month of active outreach. Channel qualification runs in parallel with warm-up, so calling can start before email does."
+        "text": "We start with about three weeks of setup and email warm up to protect deliverability. Campaigns go live after that, and qualified conversations usually start in the first month of active outreach. Calling can start before email does."
       }
     },
     {
@@ -98,7 +121,7 @@
       "name": "What makes BL different from other outbound agencies?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Most agencies buy a list and run the same sequence on everyone. We qualify reachability first, direct dial versus switchboard, LinkedIn activity, email deliverability, and that determines where each prospect's sequence starts, with the other channels as backup rather than default. We also run on our own outbound platform with AI enrichment built in, which is what makes that filtering possible across thousands of contacts instead of one at a time."
+        "text": "Most agencies buy a list and run the same sequence on everyone. We qualify reachability first and research each account, so the channel and the message fit the buyer. And you can watch the work live."
       }
     },
     {
@@ -106,15 +129,15 @@
       "name": "Do you work with companies outside the US?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, we work with B2B companies globally. Our team has run outbound campaigns targeting buyers across North America, Europe, and Latin America."
+        "text": "Yes. Our team has run outbound for buyers in North America, Europe and Latin America."
       }
     },
     {
       "@type": "Question",
-      "name": "What kind of companies do you work best with?",
+      "name": "Can I hire a rep instead?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We work best with agencies, SaaS companies, consultants, coaches, and B2B service businesses that are already selling an offer worth $2K+ per month or project, have a clear ICP, and are ready to invest in a repeatable outbound system rather than a one-off campaign."
+        "text": "Yes. We also place bilingual sales professionals from Latin America who work US business hours. Tell us the role and we come back with three profiles in 72 hours."
       }
     }
   ]

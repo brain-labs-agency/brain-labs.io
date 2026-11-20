@@ -1,44 +1,89 @@
 # BL Agency
 
-> BL Agency builds and operates outbound acquisition systems for B2B companies. We run your entire SDR function, LinkedIn prospecting, cold email, inbox management, and meeting booking, so you get a predictable flow of qualified sales conversations without the overhead of hiring.
+> BL Agency runs outbound for US B2B companies with a base of AI agents and a dedicated Agent Base manager who reviews every email before it reaches a buyer. Clients watch the work on a live dashboard. BL Agency also places vetted bilingual sales professionals from Latin America who work US business hours.
 
-## What we do
+## Outbound, done for you: the Agent Base
 
-BL Agency runs outbound with an Agent Base: a team of AI agents (Scout for research, Lens for account research, Quill for writing, Relay for sending, Echo for replies, Atlas for meetings) and a dedicated Agent Base manager who reviews and approves every email before it is sent. Clients watch the activity on a live dashboard.
+The Agent Base has three parts:
 
+1. The agents. A base of AI agents finds accounts with a buying signal, researches each one, drafts the email, sorts the replies and prepares every meeting.
+2. A dedicated Agent Base manager. A person who reviews and approves each email, handles the replies that need a human and is the client's one point of contact. Nothing is sent on autopilot.
+3. The live dashboard. Every lead found, email sent, reply and booked meeting shows up as it happens, with no wait for a weekly report.
 
-BL Agency provides SDR as a Service for B2B companies. We handle the full outbound sales function on behalf of our clients, including market mapping, ICP development, LinkedIn outreach campaigns, cold email sequences, inbox management, prospect qualification, and booked meeting delivery.
+Who does what:
 
-## Who we serve
+- Scout: finds companies in the client's market that show a reason to buy right now, and the person who decides.
+- Lens: researches each account so the first email carries something specific to them.
+- Quill: writes the first email and the follow ups in the client's voice, one prospect at a time.
+- Agent Base manager (a person): reads every draft, edits it or approves it.
+- Relay: sends the approved emails at a safe pace and keeps the follow up schedule.
+- Echo: reads every reply, sorts it and drafts the answer. Interested replies go to the Agent Base manager.
+- Atlas: writes a short brief for each booked meeting: who they are, why we wrote and what to ask.
 
-We work with B2B agencies, SaaS companies, consultants, coaches, and service businesses, especially those with offers worth $2,000+ per month who need a repeatable outbound pipeline and want to outsource the entire SDR function.
+What it includes: market mapping and ideal customer profile; domain and mailbox setup and warm up; LinkedIn, email and calls on verified direct dials; reply handling and meeting booking.
+
+How it is different: signal first, not volume first. Before a message is written, we find out where each buyer can be reached (phone, LinkedIn or email) and why they might care now, and start there. We do not buy lists or send the same sequence to everyone.
+
+Timeline: about three weeks of setup and email warm up to protect deliverability. Campaigns go live after that, and qualified conversations usually start in the first month of active outreach. Calling can start before email does.
+
+## Hire sales talent from Latin America
+
+- Roles: SDR / BDR, Account Executive, Sales Operations, Customer Success / Account Manager. Roles are scoped to the client's team.
+- Three profiles in 72 hours, each interviewed in English and put through a live cold call roleplay, with honest notes on each.
+- The client interviews candidates directly and decides.
+- Reps cover any US time zone (Eastern, Central, Mountain or Pacific).
+- Engagement: most run as contractors invoicing through BL Agency (one monthly invoice, no payroll overhead), or the client can hire directly. Replacement at no additional cost in the first 30 days, then month to month with 30 days notice. A direct hire later has a conversion fee agreed in the contract.
+
+## Who it fits
+
+A good fit: a proven B2B offer worth $2K or more per month or project, a clear ideal customer, a need for pipeline beyond referrals, and a system that runs month after month.
+
+Not a fit: testing a product from scratch, bought lists and blasts, AI on autopilot, or a one week campaign.
 
 ## Track record
 
 - $7.2M+ in revenue opportunities opened for clients
-- 100+ B2B clients served across agencies, SaaS, and consulting
-- 6 years building outbound systems for B2B companies worldwide
-
-## Our process
-
-1. Market mapping and ICP development
-2. Infrastructure setup and email warm-up (3 weeks)
-3. Campaign launch across LinkedIn and cold email
-4. Inbox management, qualification, and meeting booking
-5. Weekly reporting on pipeline and conversion data
+- 100+ B2B clients served
+- 6 years running outbound for US companies
+- Has run outbound for buyers in North America, Europe and Latin America
 
 ## Founder
 
-Veronica Grados, founder of BL Agency with 6+ years in B2B outbound sales, GTM systems, and revenue operations. LinkedIn: https://www.linkedin.com/in/veronica-grados/
+Veronica Grados, founder of BL Agency, has spent years inside B2B sales: building pipelines, running outbound campaigns and finding out what gets a reply. LinkedIn: https://www.linkedin.com/in/veronica-grados/
 
 ## Contact
 
-Website: https://www.brain-labs.io
-Book a call: https://cal.com/vero-grados-bl-agency/bl-meetings
+- Book a 30 minute discovery call: https://cal.com/vero-grados-bl-agency/bl-meetings
+- Email: veronica@brain-labs.io
+- Based in Albuquerque, New Mexico, USA, with teams across Latin America
+- Website: https://www.brain-labs.io
+
+## Careers
+
+Sales professionals in Latin America can apply to be placed with US companies (USD pay, a 20 minute interview, part in English): https://www.brain-labs.io/careers (Spanish: https://www.brain-labs.io/carreras)
 
 ## Pages
 
-- Agent Base (home): https://www.brain-labs.io/
-- Hire sales talent from Latin America: https://www.brain-labs.io/talent
-- Careers: https://www.brain-labs.io/careers (Spanish: https://www.brain-labs.io/carreras)
-- Blog: https://www.brain-labs.io/blog
+- [Agent Base (home)](https://www.brain-labs.io/)
+- [Hire sales talent from Latin America](https://www.brain-labs.io/talent)
+- [Careers](https://www.brain-labs.io/careers)
+- [Carreras (Spanish)](https://www.brain-labs.io/carreras)
+- [Blog](https://www.brain-labs.io/blog)
+
+## Blog
+
+- [What is SDR as a Service? How the model works in 2026](https://www.brain-labs.io/blog/sdr-as-a-service)
+- [How to hire a bilingual SDR from Latin America (2026 guide)](https://www.brain-labs.io/blog/hire-bilingual-sdr-latin-america)
+- [AI SDR vs human SDR: which one books meetings that close?](https://www.brain-labs.io/blog/ai-sdr-vs-human-sdr)
+- [Building a native-level English sales team from Latin America](https://www.brain-labs.io/blog/native-english-sales-team-latin-america)
+- [Where to hire bilingual LatAm cold callers for US B2B outbound](https://www.brain-labs.io/blog/hire-bilingual-cold-callers-latin-america)
+- [Lead generation for staffing and recruitment agencies: what works in 2026](https://www.brain-labs.io/blog/lead-generation-staffing-recruitment-agencies)
+- [How to interview an SDR: the 20-minute screen](https://www.brain-labs.io/blog/sdr-interview-process)
+- [Outsourced SDR vs in-house SDR: what actually works](https://www.brain-labs.io/blog/outsourced-sdr-vs-in-house-sdr)
+- [SDR onboarding plan: the first 30, 60 and 90 days](https://www.brain-labs.io/blog/sdr-onboarding-plan)
+- [Are AI SDRs worth it? What happened to fully autonomous AI SDRs](https://www.brain-labs.io/blog/are-ai-sdrs-worth-it)
+- [Lead generation for SaaS companies: outbound that books demos](https://www.brain-labs.io/blog/lead-generation-saas-companies)
+- [Should a founder hire an SDR or an AE first?](https://www.brain-labs.io/blog/hire-sdr-or-ae-first)
+- [Hiring sales reps in Colombia, Argentina or Mexico: how to choose](https://www.brain-labs.io/blog/hire-sales-reps-colombia-argentina-mexico)
+- [12 questions to ask an outsourced SDR agency before you sign](https://www.brain-labs.io/blog/questions-to-ask-outsourced-sdr-agency)
+- [Nearshore vs offshore sales teams: what changes for US buyers](https://www.brain-labs.io/blog/nearshore-vs-offshore-sales-teams)
