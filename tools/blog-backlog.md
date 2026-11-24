@@ -54,7 +54,7 @@ Update Nov 2 (evening):
 | 21 | Outbound lead generation services: what is included and what to ask | "outbound lead generation services / agency / tools" | AC | AB | A | todo |
 | 22 | Nearshore vs offshore sales teams: what changes for US buyers | "what is considered nearshore", "inshore vs nearshore" | AC | T | B | live |
 | 23 | AI agent offices: what the visual agent trend means for sales teams | "ai agent office", "pixel agents" | Social trend; dev tools like Pixel Agents and AI Office | AB | B | todo |
-| 24 | Can you see your AI SDR working? Why outbound agents shouldn't be a black box | "ai agents visualized" trend; AI SDR churn complaints | Social trend (pixel agent offices); pairs with the LinkedIn video | AB | B | todo |
+| 24 | Can you see your AI SDR working? Why outbound agents shouldn't be a black box | "ai agents visualized" trend; AI SDR churn complaints | Social trend (pixel agent offices); pairs with the LinkedIn video | AB | B | draft |
 | 25 | Why are my cold emails not working? A diagnostic | "why are my cold emails not working" | AC | AB | B | todo |
 | 26 | What is an AI SDR, and what it can't do yet | "ai sdr meaning", "what is ai sdr agent" | AC; Bing "ai sdr" 219 | AB | B | todo |
 | 27 | How to test a sales candidate's English (beyond the CV) | "english test for sales reps" | Supports GSC native-speaker query | T | B | todo |
@@ -73,7 +73,7 @@ Update Nov 2 (evening):
 | 40 | AI cold calling agents: what they can and can't do | "ai cold calling agent / software" | AC | AB | B | todo |
 | 41 | Hiring a remote SDR: what to change in your process | "hire remote sdr" | AC | T | B | todo |
 | 42 | Pipeline generation strategy for small sales teams | "pipeline generation strategy", "pipeline generation ai" | AC | AB | B | todo |
-| 43 | Bilingual sales reps for Spanish-speaking US markets | "bilingual sdr", "bilingual sales jobs" | AC | T | B | todo |
+| 43 | Bilingual sales reps for Spanish-speaking US markets | "bilingual sdr", "bilingual sales jobs" | AC | T | B | draft |
 | 44 | Sales staff augmentation: adding reps without a long hiring cycle | "staff augmentation companies" (sales) | AC | T | B | todo |
 | 45 | Account research before the first email: what to look for | "how to research accounts for outbound" | Supports Agent Base (Scout and Lens) | AB | B | todo |
 | 46 | Why AI SDRs struggle with niche ICPs and small markets | "ai sdr niche b2b" | Review sites: tools shine only with large TAMs | AB | B | todo |

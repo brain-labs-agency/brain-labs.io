@@ -21,6 +21,8 @@ Never use page heroes or section images (hero-*.jpg, part-*.jpg) in posts.
 | cover-hire-sales-reps-colombia-argentina-mexico | blog/hire-sales-reps-colombia-argentina-mexico (branded cover) |
 | cover-questions-to-ask-outsourced-sdr-agency | blog/questions-to-ask-outsourced-sdr-agency (branded cover) |
 | cover-nearshore-vs-offshore-sales-teams | blog/nearshore-vs-offshore-sales-teams (branded cover) |
+| blog-agent-dashboard | blog/ai-sdr-black-box |
+| cover-bilingual-sales-reps-spanish-speaking-us-markets | blog/bilingual-sales-reps-spanish-speaking-us-markets (branded cover) |
 | hero-blog | /blog index hero only |
 
 ## Available (unused)
@@ -42,7 +44,6 @@ When drafting a post: if its topic has a reserved photo here, use it and move it
 | blog-human-review | 20 | Human in the loop: why every AI-written email needs a reviewer (Two colleagues editing an email together on one laptop) |
 | blog-outbound-services | 21 | Outbound lead generation services: what is included and what to ask (Team of three planning a campaign, funnel drawn on a whiteboard) |
 | blog-agent-office | 23 | AI agent offices: what the visual agent trend means for sales teams (Woman smiling at her monitor showing an Agent Base style dashboard: 3D hex-tile base on orange sand, evening) |
-| blog-agent-dashboard | 24 | Can you see your AI SDR working? Why outbound agents shouldn't be a black box (Sales ops lead with arms crossed in front of an activity dashboard) |
 
 ## When nothing fits or the list is empty
 Do not reuse. Build a branded cover instead: 1600x900, background gradient #0d4747 to #061f20, the post category in small caps (#efbf6e), a short headline (Fraunces style serif, #f6f1e7), and one simple chart or number motif in amber. Render an HTML page with Playwright (Chromium is pre-installed) to img/cover-<slug>.jpg (quality 85) plus a .webp, then add it to "In use" above.
