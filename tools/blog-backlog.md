@@ -56,7 +56,7 @@ Update Nov 2 (evening):
 | 23 | AI agent offices: what the visual agent trend means for sales teams | "ai agent office", "pixel agents" | Social trend; dev tools like Pixel Agents and AI Office | AB | B | todo |
 | 24 | Can you see your AI SDR working? Why outbound agents shouldn't be a black box | "ai agents visualized" trend; AI SDR churn complaints | Social trend (pixel agent offices); pairs with the LinkedIn video | AB | B | todo |
 | 25 | Why are my cold emails not working? A diagnostic | "why are my cold emails not working" | AC | AB | B | todo |
-| 26 | What is an AI SDR, and what it can't do yet | "ai sdr meaning", "what is ai sdr agent" | AC; Bing "ai sdr" 219 | AB | B | todo |
+| 26 | What is an AI SDR, and what it can't do yet | "ai sdr meaning", "what is ai sdr agent" | AC; Bing "ai sdr" 219 | AB | B | draft |
 | 27 | How to test a sales candidate's English (beyond the CV) | "english test for sales reps" | Supports GSC native-speaker query | T | B | todo |
 | 28 | When to stop founder-led sales and bring in outbound help | "when to hire first sdr" | Founder threads; SignalFire, SaaStr | AB | B | todo |
 | 29 | What counts as a qualified meeting? Define it before launch | "what is a qualified meeting" | Buyer guides say most agency disputes are definition disputes | AB | B | todo |
@@ -77,7 +77,7 @@ Update Nov 2 (evening):
 | 44 | Sales staff augmentation: adding reps without a long hiring cycle | "staff augmentation companies" (sales) | AC | T | B | todo |
 | 45 | Account research before the first email: what to look for | "how to research accounts for outbound" | Supports Agent Base (Scout and Lens) | AB | B | todo |
 | 46 | Why AI SDRs struggle with niche ICPs and small markets | "ai sdr niche b2b" | Review sites: tools shine only with large TAMs | AB | B | todo |
-| 47 | What is an SDR? The role explained for founders | "what is an sdr", "sdr meaning sales" | Bing 436 + 440 | T | C | todo |
+| 47 | What is an SDR? The role explained for founders | "what is an sdr", "sdr meaning sales" | Bing 436 + 440 | T | C | draft |
 | 48 | Outbound sales in 2026: how it works now | "outbound sales" | Bing 284 | AB | C | todo |
 | 49 | Lead generation for coaching and high-ticket programs | "lead generation for coaching business" | AC; ICP (high-ticket coaching) | AB | C | todo |
 | 50 | What is a GTM agency, and do you need one? | "gtm agency meaning", "gtm agency reddit" | AC | AB | C | todo |
