@@ -58,7 +58,7 @@ Update Nov 2 (evening):
 | 25 | Why are my cold emails not working? A diagnostic | "why are my cold emails not working" | AC | AB | B | todo |
 | 26 | What is an AI SDR, and what it can't do yet | "ai sdr meaning", "what is ai sdr agent" | AC; Bing "ai sdr" 219 | AB | B | todo |
 | 27 | How to test a sales candidate's English (beyond the CV) | "english test for sales reps" | Supports GSC native-speaker query | T | B | todo |
-| 28 | When to stop founder-led sales and bring in outbound help | "when to hire first sdr" | Founder threads; SignalFire, SaaStr | AB | B | todo |
+| 28 | When to stop founder-led sales and bring in outbound help | "when to hire first sdr" | Founder threads; SignalFire, SaaStr | AB | B | draft |
 | 29 | What counts as a qualified meeting? Define it before launch | "what is a qualified meeting" | Buyer guides say most agency disputes are definition disputes | AB | B | todo |
 | 30 | Lead generation for consulting firms and high-ticket services | "lead generation for consulting companies / business consultants" | AC; ICP | AB | B | todo |
 | 31 | SDR ramp time: how long until a new rep books meetings | "sdr ramp time" | AC | T | B | todo |
@@ -82,7 +82,7 @@ Update Nov 2 (evening):
 | 49 | Lead generation for coaching and high-ticket programs | "lead generation for coaching business" | AC; ICP (high-ticket coaching) | AB | C | todo |
 | 50 | What is a GTM agency, and do you need one? | "gtm agency meaning", "gtm agency reddit" | AC | AB | C | todo |
 | 51 | Appointment setting services: what you get and what to check | "appointment setting services / companies" | AC; Bing "appointment setter" 1,280 (mostly job seekers) | AB | C | todo |
-| 52 | SDR job description template for US companies hiring in LatAm | "sdr job description", "appointment setter job description" | Bing 113 | T | C | todo |
+| 52 | SDR job description template for US companies hiring in LatAm | "sdr job description", "appointment setter job description" | Bing 113 | T | C | draft |
 | 53 | LinkedIn outreach that gets replies | "linkedin outreach" | Bing 63 | AB | C | todo |
 | 54 | Clay agency vs outbound agency: what each one delivers | "clay agency reddit" | AC | AB | C | todo |
 | 55 | Building a sales pipeline from zero | "sales pipeline" | Bing 1,107 (broad) | AB | C | todo |
